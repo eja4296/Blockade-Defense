@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>D:/BLOCKADE_DEFENSE_STUFF/Blockade Defense Final Game/Blockade Defense/Blockade Defense/Content/Images/Game.png</File>
+    <File>D:/BLOCKADE_DEFENSE_STUFF/Blockade Defense Final Game/Blockade Defense/Blockade Defense/Content/Images/GameOver.png</File>
+    <File>D:/BLOCKADE_DEFENSE_STUFF/Blockade Defense Final Game/Blockade Defense/Blockade Defense/Content/Images/LevelDifficultyButton.png</File>
+    <File>D:/BLOCKADE_DEFENSE_STUFF/Blockade Defense Final Game/Blockade Defense/Blockade Defense/Content/Images/MapSelectionButton.png</File>
+    <File>D:/BLOCKADE_DEFENSE_STUFF/Blockade Defense Final Game/Blockade Defense/Blockade Defense/Content/Images/PressEnter.png</File>
+    <File>D:/BLOCKADE_DEFENSE_STUFF/Blockade Defense Final Game/Blockade Defense/Blockade Defense/Content/Images/MainMenu.png</File>
+    <File>D:/BLOCKADE_DEFENSE_STUFF/Blockade Defense Final Game/Blockade Defense/Blockade Defense/Content/Images/TitleScreen.png</File>
+    <File>D:/BLOCKADE_DEFENSE_STUFF/Blockade Defense Final Game/Blockade Defense/Blockade Defense/Content/Images/EndGameHover.png</File>
+    <File>D:/BLOCKADE_DEFENSE_STUFF/Blockade Defense Final Game/Blockade Defense/Blockade Defense/Content/Images/StartNextWaveHover.png</File>
+    <File>D:/BLOCKADE_DEFENSE_STUFF/Blockade Defense Final Game/Blockade Defense/Blockade Defense/Content/Images/PathBlock.png</File>
+    <File>D:/BLOCKADE_DEFENSE_STUFF/Blockade Defense Final Game/Blockade Defense/Blockade Defense/Content/Images/QuitGameButtonHover.png</File>
+    <File>D:/BLOCKADE_DEFENSE_STUFF/Blockade Defense Final Game/Blockade Defense/Blockade Defense/Content/Images/PlayGameButton.png</File>
+    <File>D:/BLOCKADE_DEFENSE_STUFF/Blockade Defense Final Game/Blockade Defense/Blockade Defense/Content/Images/HelpButton.png</File>
+    <File>D:/BLOCKADE_DEFENSE_STUFF/Blockade Defense Final Game/Blockade Defense/Blockade Defense/Content/Images/HelpButtonHover.png</File>
+    <File>D:/BLOCKADE_DEFENSE_STUFF/Blockade Defense Final Game/Blockade Defense/Blockade Defense/Content/Images/MainMenuButton.png</File>
+    <File>D:/BLOCKADE_DEFENSE_STUFF/Blockade Defense Final Game/Blockade Defense/Blockade Defense/Content/Images/MainMenuButtonHover.png</File>
+    <File>D:/BLOCKADE_DEFENSE_STUFF/Blockade Defense Final Game/Blockade Defense/Blockade Defense/Content/Images/QuitGameButton.png</File>
+    <File>D:/BLOCKADE_DEFENSE_STUFF/Blockade Defense Final Game/Blockade Defense/Blockade Defense/Content/Images/PlayGameButtonHover.png</File>
+    <File>D:/BLOCKADE_DEFENSE_STUFF/Blockade Defense Final Game/Blockade Defense/Blockade Defense/Content/Images/PressEnterBlink.png</File>
+    <File>D:/BLOCKADE_DEFENSE_STUFF/Blockade Defense Final Game/Blockade Defense/Blockade Defense/Content/Images/EmptyTile.png</File>
+    <File>D:/BLOCKADE_DEFENSE_STUFF/Blockade Defense Final Game/Blockade Defense/Blockade Defense/Content/Images/mySpriteFont.spritefont</File>
+    <File>D:/BLOCKADE_DEFENSE_STUFF/Blockade Defense Final Game/Blockade Defense/Blockade Defense/Content/Images/mySpriteFont2.spritefont</File>
+    <File>D:/BLOCKADE_DEFENSE_STUFF/Blockade Defense Final Game/Blockade Defense/Blockade Defense/Content/Images/mySpriteFont3.spritefont</File>
+    <File>D:/BLOCKADE_DEFENSE_STUFF/Blockade Defense Final Game/Blockade Defense/Blockade Defense/Content/Images/Pulse1.png</File>
+    <File>D:/BLOCKADE_DEFENSE_STUFF/Blockade Defense Final Game/Blockade Defense/Blockade Defense/Content/Images/TestBullet.png</File>
+    <File>D:/BLOCKADE_DEFENSE_STUFF/Blockade Defense Final Game/Blockade Defense/Blockade Defense/Content/Images/missile.png</File>
+    <File>D:/BLOCKADE_DEFENSE_STUFF/Blockade Defense Final Game/Blockade Defense/Blockade Defense/Content/Images/FastSub.png</File>
+    <File>D:/BLOCKADE_DEFENSE_STUFF/Blockade Defense Final Game/Blockade Defense/Blockade Defense/Content/Images/HeavySub.png</File>
+    <File>D:/BLOCKADE_DEFENSE_STUFF/Blockade Defense Final Game/Blockade Defense/Blockade Defense/Content/Images/BasicSub.png</File>
+    <File>D:/BLOCKADE_DEFENSE_STUFF/Blockade Defense Final Game/Blockade Defense/Blockade Defense/Content/Images/PulseTower.png</File>
+    <File>D:/BLOCKADE_DEFENSE_STUFF/Blockade Defense Final Game/Blockade Defense/Blockade Defense/Content/Images/BasicTower.png</File>
+    <File>D:/BLOCKADE_DEFENSE_STUFF/Blockade Defense Final Game/Blockade Defense/Blockade Defense/Content/Images/mySpriteFont4.spritefont</File>
+    <File>D:/BLOCKADE_DEFENSE_STUFF/Blockade Defense Final Game/Blockade Defense/Blockade Defense/Content/Images/MapButton.png</File>
+    <File>D:/BLOCKADE_DEFENSE_STUFF/Blockade Defense Final Game/Blockade Defense/Blockade Defense/Content/Images/MapButtonHover.png</File>
+    <File>D:/BLOCKADE_DEFENSE_STUFF/Blockade Defense Final Game/Blockade Defense/Blockade Defense/Content/Images/MapSelectionScreen.png</File>
+    <File>D:/BLOCKADE_DEFENSE_STUFF/Blockade Defense Final Game/Blockade Defense/Blockade Defense/Content/Images/FinishedButton.png</File>
+    <File>D:/BLOCKADE_DEFENSE_STUFF/Blockade Defense Final Game/Blockade Defense/Blockade Defense/Content/Images/BigBoy.png</File>
+    <File>D:/BLOCKADE_DEFENSE_STUFF/Blockade Defense Final Game/Blockade Defense/Blockade Defense/Content/Images/SuperTower.png</File>
+    <File>D:/BLOCKADE_DEFENSE_STUFF/Blockade Defense Final Game/Blockade Defense/Blockade Defense/Content/Images/MissileTower.png</File>
+    <File>D:/BLOCKADE_DEFENSE_STUFF/Blockade Defense Final Game/Blockade Defense/Blockade Defense/Content/Images/TowerHover.png</File>
+  </SourceFiles>
+</SourceFileCollection>

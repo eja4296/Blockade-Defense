@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>D:/BLOCKADE_DEFENSE_STUFF/Blockade Defense Final Game/Blockade Defense/Blockade Defense/Content/Images/mySpriteFont4.spritefont</SourceFile>
+  <SourceTime>2015-12-12T18:15:42-05:00</SourceTime>
+  <DestFile>D:/BLOCKADE_DEFENSE_STUFF/Blockade Defense Final Game/Blockade Defense/Blockade Defense/Content/bin/Windows/Images/mySpriteFont4.xnb</DestFile>
+  <DestTime>2016-05-13T20:17:29.1243483-04:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2015-04-29T13:14:44-04:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2015-04-29T13:14:44-04:00</ProcessorTime>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

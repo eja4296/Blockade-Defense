@@ -1,0 +1,994 @@
+\\banner.main.ad.rit.edu\students\dd5564\IGMProfile\Desktop\GDAPS 2 Project\Blockade Defense\Blockade Defense\bin\Windows\Debug\Blockade Defense.exe
+\\banner.main.ad.rit.edu\students\dd5564\IGMProfile\Desktop\GDAPS 2 Project\Blockade Defense\Blockade Defense\bin\Windows\Debug\Blockade Defense.pdb
+\\banner.main.ad.rit.edu\students\dd5564\IGMProfile\Desktop\GDAPS 2 Project\Blockade Defense\Blockade Defense\bin\Windows\Debug\MonoGame.Framework.dll
+\\banner.main.ad.rit.edu\students\dd5564\IGMProfile\Desktop\GDAPS 2 Project\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+\\banner.main.ad.rit.edu\students\dd5564\IGMProfile\Desktop\GDAPS 2 Project\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.dll
+\\banner.main.ad.rit.edu\students\dd5564\IGMProfile\Desktop\GDAPS 2 Project\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.XAudio2.dll
+\\banner.main.ad.rit.edu\students\dd5564\IGMProfile\Desktop\GDAPS 2 Project\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.Direct3D11.dll
+\\banner.main.ad.rit.edu\students\dd5564\IGMProfile\Desktop\GDAPS 2 Project\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.DXGI.dll
+\\banner.main.ad.rit.edu\students\dd5564\IGMProfile\Desktop\GDAPS 2 Project\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.Direct2D1.dll
+\\banner.main.ad.rit.edu\students\dd5564\IGMProfile\Desktop\GDAPS 2 Project\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.XInput.dll
+\\banner.main.ad.rit.edu\students\dd5564\IGMProfile\Desktop\GDAPS 2 Project\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.RawInput.dll
+\\banner.main.ad.rit.edu\students\dd5564\IGMProfile\Desktop\GDAPS 2 Project\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.Direct3D9.dll
+\\banner.main.ad.rit.edu\students\dd5564\IGMProfile\Desktop\GDAPS 2 Project\Blockade Defense\Blockade Defense\bin\Windows\Debug\MonoGame.Framework.xml
+\\banner.main.ad.rit.edu\students\dd5564\IGMProfile\Desktop\GDAPS 2 Project\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+\\banner.main.ad.rit.edu\students\dd5564\IGMProfile\Desktop\GDAPS 2 Project\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.xml
+\\banner.main.ad.rit.edu\students\dd5564\IGMProfile\Desktop\GDAPS 2 Project\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.XAudio2.xml
+\\banner.main.ad.rit.edu\students\dd5564\IGMProfile\Desktop\GDAPS 2 Project\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.Direct3D11.xml
+\\banner.main.ad.rit.edu\students\dd5564\IGMProfile\Desktop\GDAPS 2 Project\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.DXGI.xml
+\\banner.main.ad.rit.edu\students\dd5564\IGMProfile\Desktop\GDAPS 2 Project\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.Direct2D1.xml
+\\banner.main.ad.rit.edu\students\dd5564\IGMProfile\Desktop\GDAPS 2 Project\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.XInput.xml
+\\banner.main.ad.rit.edu\students\dd5564\IGMProfile\Desktop\GDAPS 2 Project\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.RawInput.xml
+\\banner.main.ad.rit.edu\students\dd5564\IGMProfile\Desktop\GDAPS 2 Project\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.Direct3D9.xml
+\\banner.main.ad.rit.edu\students\dd5564\IGMProfile\Desktop\GDAPS 2 Project\Blockade Defense\Blockade Defense\obj\x86\Debug\Blockade Defense.csprojResolveAssemblyReference.cache
+\\banner.main.ad.rit.edu\students\dd5564\IGMProfile\Desktop\GDAPS 2 Project\Blockade Defense\Blockade Defense\obj\x86\Debug\Blockade Defense.exe
+\\banner.main.ad.rit.edu\students\dd5564\IGMProfile\Desktop\GDAPS 2 Project\Blockade Defense\Blockade Defense\obj\x86\Debug\Blockade Defense.pdb
+D:\GDAPS 2 Project\Blockade Defense\Blockade Defense\obj\x86\Debug\Blockade Defense.exe
+D:\GDAPS 2 Project\Blockade Defense\Blockade Defense\obj\x86\Debug\Blockade Defense.pdb
+D:\GDAPS 2 Project\Blockade Defense\Blockade Defense\bin\Windows\Debug\Blockade Defense.exe
+D:\GDAPS 2 Project\Blockade Defense\Blockade Defense\bin\Windows\Debug\Blockade Defense.pdb
+D:\GDAPS 2 Project\Blockade Defense\Blockade Defense\bin\Windows\Debug\MonoGame.Framework.dll
+D:\GDAPS 2 Project\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+D:\GDAPS 2 Project\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.dll
+D:\GDAPS 2 Project\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.XAudio2.dll
+D:\GDAPS 2 Project\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.Direct3D11.dll
+D:\GDAPS 2 Project\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.DXGI.dll
+D:\GDAPS 2 Project\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.Direct2D1.dll
+D:\GDAPS 2 Project\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.XInput.dll
+D:\GDAPS 2 Project\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.RawInput.dll
+D:\GDAPS 2 Project\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.Direct3D9.dll
+D:\GDAPS 2 Project\Blockade Defense\Blockade Defense\bin\Windows\Debug\MonoGame.Framework.xml
+D:\GDAPS 2 Project\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+D:\GDAPS 2 Project\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.xml
+D:\GDAPS 2 Project\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.XAudio2.xml
+D:\GDAPS 2 Project\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.Direct3D11.xml
+D:\GDAPS 2 Project\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.DXGI.xml
+D:\GDAPS 2 Project\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.Direct2D1.xml
+D:\GDAPS 2 Project\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.XInput.xml
+D:\GDAPS 2 Project\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.RawInput.xml
+D:\GDAPS 2 Project\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.Direct3D9.xml
+D:\GDAPS 2 Project\Blockade Defense\Blockade Defense\obj\x86\Debug\Blockade Defense.csprojResolveAssemblyReference.cache
+C:\Users\David\Desktop\GDAPS 2 Project\Blockade Defense\Blockade Defense\obj\x86\Debug\Blockade Defense.exe
+C:\Users\David\Desktop\GDAPS 2 Project\Blockade Defense\Blockade Defense\obj\x86\Debug\Blockade Defense.pdb
+C:\Users\easpo_000\Downloads\GDAPS 2 Project (1)\GDAPS 2 Project\Blockade Defense\Blockade Defense\obj\x86\Debug\Blockade Defense.exe
+C:\Users\easpo_000\Downloads\GDAPS 2 Project (1)\GDAPS 2 Project\Blockade Defense\Blockade Defense\obj\x86\Debug\Blockade Defense.pdb
+D:\GDAPS 2 Project (1)\GDAPS 2 Project\Blockade Defense\Blockade Defense\obj\x86\Debug\Blockade Defense.exe
+D:\GDAPS 2 Project (1)\GDAPS 2 Project\Blockade Defense\Blockade Defense\obj\x86\Debug\Blockade Defense.pdb
+D:\GDAPS 2 Project (1)\GDAPS 2 Project\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\Game.xnb
+D:\GDAPS 2 Project (1)\GDAPS 2 Project\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\GameOver.xnb
+D:\GDAPS 2 Project (1)\GDAPS 2 Project\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\HelpButton.xnb
+D:\GDAPS 2 Project (1)\GDAPS 2 Project\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\LevelDifficultyButton.xnb
+D:\GDAPS 2 Project (1)\GDAPS 2 Project\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\MainMenu.xnb
+D:\GDAPS 2 Project (1)\GDAPS 2 Project\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\MapSelectionButton.xnb
+D:\GDAPS 2 Project (1)\GDAPS 2 Project\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\PathBlock.xnb
+D:\GDAPS 2 Project (1)\GDAPS 2 Project\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\PlayGameButton.xnb
+D:\GDAPS 2 Project (1)\GDAPS 2 Project\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\PressEnter.xnb
+D:\GDAPS 2 Project (1)\GDAPS 2 Project\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\QuitGameButton.xnb
+D:\GDAPS 2 Project (1)\GDAPS 2 Project\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\SubPlaceholder.xnb
+D:\GDAPS 2 Project (1)\GDAPS 2 Project\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\TitleScreen.xnb
+D:\GDAPS 2 Project (1)\GDAPS 2 Project\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\TowerPlaceholder.xnb
+D:\GDAPS 2 Project (1)\GDAPS 2 Project\Blockade Defense\Blockade Defense\bin\Windows\Debug\Blockade Defense.exe
+D:\GDAPS 2 Project (1)\GDAPS 2 Project\Blockade Defense\Blockade Defense\bin\Windows\Debug\Blockade Defense.pdb
+D:\GDAPS 2 Project (1)\GDAPS 2 Project\Blockade Defense\Blockade Defense\bin\Windows\Debug\MonoGame.Framework.dll
+D:\GDAPS 2 Project (1)\GDAPS 2 Project\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+D:\GDAPS 2 Project (1)\GDAPS 2 Project\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.dll
+D:\GDAPS 2 Project (1)\GDAPS 2 Project\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.XAudio2.dll
+D:\GDAPS 2 Project (1)\GDAPS 2 Project\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.Direct3D11.dll
+D:\GDAPS 2 Project (1)\GDAPS 2 Project\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.DXGI.dll
+D:\GDAPS 2 Project (1)\GDAPS 2 Project\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.Direct2D1.dll
+D:\GDAPS 2 Project (1)\GDAPS 2 Project\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.XInput.dll
+D:\GDAPS 2 Project (1)\GDAPS 2 Project\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.RawInput.dll
+D:\GDAPS 2 Project (1)\GDAPS 2 Project\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.Direct3D9.dll
+D:\GDAPS 2 Project (1)\GDAPS 2 Project\Blockade Defense\Blockade Defense\bin\Windows\Debug\MonoGame.Framework.xml
+D:\GDAPS 2 Project (1)\GDAPS 2 Project\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+D:\GDAPS 2 Project (1)\GDAPS 2 Project\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.xml
+D:\GDAPS 2 Project (1)\GDAPS 2 Project\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.XAudio2.xml
+D:\GDAPS 2 Project (1)\GDAPS 2 Project\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.Direct3D11.xml
+D:\GDAPS 2 Project (1)\GDAPS 2 Project\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.DXGI.xml
+D:\GDAPS 2 Project (1)\GDAPS 2 Project\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.Direct2D1.xml
+D:\GDAPS 2 Project (1)\GDAPS 2 Project\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.XInput.xml
+D:\GDAPS 2 Project (1)\GDAPS 2 Project\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.RawInput.xml
+D:\GDAPS 2 Project (1)\GDAPS 2 Project\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.Direct3D9.xml
+D:\GDAPS 2 Project (1)\GDAPS 2 Project\Blockade Defense\Blockade Defense\obj\x86\Debug\Blockade Defense.csprojResolveAssemblyReference.cache
+D:\GDAPS 2 Project (1)\GDAPS 2 Project\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\MainMenuButton.xnb
+J:\Group Project GDAPS\Blockade Defense\Main Code\Blockade Defense\Blockade Defense\obj\x86\Debug\Blockade Defense.exe
+J:\Group Project GDAPS\Blockade Defense\Main Code\Blockade Defense\Blockade Defense\obj\x86\Debug\Blockade Defense.pdb
+J:\Group Project GDAPS\Blockade Defense\Main Code\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\Game.xnb
+J:\Group Project GDAPS\Blockade Defense\Main Code\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\GameOver.xnb
+J:\Group Project GDAPS\Blockade Defense\Main Code\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\HelpButton.xnb
+J:\Group Project GDAPS\Blockade Defense\Main Code\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\LevelDifficultyButton.xnb
+J:\Group Project GDAPS\Blockade Defense\Main Code\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\MainMenu.xnb
+J:\Group Project GDAPS\Blockade Defense\Main Code\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\MainMenuButton.xnb
+J:\Group Project GDAPS\Blockade Defense\Main Code\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\MapSelectionButton.xnb
+J:\Group Project GDAPS\Blockade Defense\Main Code\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\PathBlock.xnb
+J:\Group Project GDAPS\Blockade Defense\Main Code\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\PlayGameButton.xnb
+J:\Group Project GDAPS\Blockade Defense\Main Code\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\PressEnter.xnb
+J:\Group Project GDAPS\Blockade Defense\Main Code\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\QuitGameButton.xnb
+J:\Group Project GDAPS\Blockade Defense\Main Code\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\SubPlaceholder.xnb
+J:\Group Project GDAPS\Blockade Defense\Main Code\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\TitleScreen.xnb
+J:\Group Project GDAPS\Blockade Defense\Main Code\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\TowerPlaceholder.xnb
+J:\Group Project GDAPS\Blockade Defense\Main Code\Blockade Defense\Blockade Defense\bin\Windows\Debug\Blockade Defense.exe
+J:\Group Project GDAPS\Blockade Defense\Main Code\Blockade Defense\Blockade Defense\bin\Windows\Debug\Blockade Defense.pdb
+J:\Group Project GDAPS\Blockade Defense\Main Code\Blockade Defense\Blockade Defense\bin\Windows\Debug\MonoGame.Framework.dll
+J:\Group Project GDAPS\Blockade Defense\Main Code\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+J:\Group Project GDAPS\Blockade Defense\Main Code\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.dll
+J:\Group Project GDAPS\Blockade Defense\Main Code\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.XAudio2.dll
+J:\Group Project GDAPS\Blockade Defense\Main Code\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.Direct3D11.dll
+J:\Group Project GDAPS\Blockade Defense\Main Code\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.DXGI.dll
+J:\Group Project GDAPS\Blockade Defense\Main Code\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.Direct2D1.dll
+J:\Group Project GDAPS\Blockade Defense\Main Code\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.XInput.dll
+J:\Group Project GDAPS\Blockade Defense\Main Code\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.RawInput.dll
+J:\Group Project GDAPS\Blockade Defense\Main Code\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.Direct3D9.dll
+J:\Group Project GDAPS\Blockade Defense\Main Code\Blockade Defense\Blockade Defense\bin\Windows\Debug\MonoGame.Framework.xml
+J:\Group Project GDAPS\Blockade Defense\Main Code\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+J:\Group Project GDAPS\Blockade Defense\Main Code\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.xml
+J:\Group Project GDAPS\Blockade Defense\Main Code\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.XAudio2.xml
+J:\Group Project GDAPS\Blockade Defense\Main Code\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.Direct3D11.xml
+J:\Group Project GDAPS\Blockade Defense\Main Code\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.DXGI.xml
+J:\Group Project GDAPS\Blockade Defense\Main Code\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.Direct2D1.xml
+J:\Group Project GDAPS\Blockade Defense\Main Code\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.XInput.xml
+J:\Group Project GDAPS\Blockade Defense\Main Code\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.RawInput.xml
+J:\Group Project GDAPS\Blockade Defense\Main Code\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.Direct3D9.xml
+J:\Group Project GDAPS\Blockade Defense\Main Code\Blockade Defense\Blockade Defense\obj\x86\Debug\Blockade Defense.csprojResolveAssemblyReference.cache
+E:\Blockade Defense\Blockade Defense\obj\x86\Debug\Blockade Defense.exe
+E:\Blockade Defense\Blockade Defense\obj\x86\Debug\Blockade Defense.pdb
+E:\Blockade Defense\Blockade Defense\obj\x86\Debug\Blockade Defense.csprojResolveAssemblyReference.cache
+E:\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\Game.xnb
+E:\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\GameOver.xnb
+E:\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\HelpButton.xnb
+E:\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\LevelDifficultyButton.xnb
+E:\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\MainMenu.xnb
+E:\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\MainMenuButton.xnb
+E:\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\MapSelectionButton.xnb
+E:\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\PlayGameButton.xnb
+E:\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\PressEnter.xnb
+E:\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\QuitGameButton.xnb
+E:\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\SubPlaceholder.xnb
+E:\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\TitleScreen.xnb
+E:\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\TowerPlaceholder.xnb
+E:\Blockade Defense\Blockade Defense\bin\Windows\Debug\Blockade Defense.exe
+E:\Blockade Defense\Blockade Defense\bin\Windows\Debug\Blockade Defense.pdb
+E:\Blockade Defense\Blockade Defense\bin\Windows\Debug\MonoGame.Framework.dll
+E:\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+E:\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.dll
+E:\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.XAudio2.dll
+E:\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.Direct3D11.dll
+E:\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.DXGI.dll
+E:\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.Direct2D1.dll
+E:\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.XInput.dll
+E:\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.RawInput.dll
+E:\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.Direct3D9.dll
+E:\Blockade Defense\Blockade Defense\bin\Windows\Debug\MonoGame.Framework.xml
+E:\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+E:\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.xml
+E:\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.XAudio2.xml
+E:\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.Direct3D11.xml
+E:\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.DXGI.xml
+E:\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.Direct2D1.xml
+E:\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.XInput.xml
+E:\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.RawInput.xml
+E:\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.Direct3D9.xml
+J:\Blockade Defense\Blockade Defense\obj\x86\Debug\Blockade Defense.exe
+J:\Blockade Defense\Blockade Defense\obj\x86\Debug\Blockade Defense.pdb
+J:\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\Game.xnb
+J:\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\GameOver.xnb
+J:\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\HelpButton.xnb
+J:\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\LevelDifficultyButton.xnb
+J:\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\MainMenu.xnb
+J:\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\MainMenuButton.xnb
+J:\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\MapSelectionButton.xnb
+J:\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\PathBlock.xnb
+J:\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\PlayGameButton.xnb
+J:\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\PressEnter.xnb
+J:\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\QuitGameButton.xnb
+J:\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\SubPlaceholder.xnb
+J:\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\TitleScreen.xnb
+J:\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\TowerPlaceholder.xnb
+J:\Blockade Defense\Blockade Defense\bin\Windows\Debug\Blockade Defense.exe
+J:\Blockade Defense\Blockade Defense\bin\Windows\Debug\Blockade Defense.pdb
+J:\Blockade Defense\Blockade Defense\bin\Windows\Debug\MonoGame.Framework.dll
+J:\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+J:\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.dll
+J:\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.XAudio2.dll
+J:\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.Direct3D11.dll
+J:\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.DXGI.dll
+J:\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.Direct2D1.dll
+J:\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.XInput.dll
+J:\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.RawInput.dll
+J:\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.Direct3D9.dll
+J:\Blockade Defense\Blockade Defense\bin\Windows\Debug\MonoGame.Framework.xml
+J:\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+J:\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.xml
+J:\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.XAudio2.xml
+J:\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.Direct3D11.xml
+J:\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.DXGI.xml
+J:\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.Direct2D1.xml
+J:\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.XInput.xml
+J:\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.RawInput.xml
+J:\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.Direct3D9.xml
+J:\Blockade Defense\Blockade Defense\obj\x86\Debug\Blockade Defense.csprojResolveAssemblyReference.cache
+J:\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\PlayGameButtonHover.xnb
+E:\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\EndGameHover.xnb
+E:\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\HelpButtonHover.xnb
+E:\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\MainMenuButtonHover.xnb
+E:\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\QuitGameButtonHover.xnb
+E:\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\StartNextWaveHover.xnb
+E:\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\PathBlock.xnb
+E:\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\PlayGameButtonHover.xnb
+E:\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\PressEnterBlink.xnb
+D:\Blockade Defense\Blockade Defense\obj\x86\Debug\Blockade Defense.exe
+D:\Blockade Defense\Blockade Defense\obj\x86\Debug\Blockade Defense.pdb
+D:\Blockade Defense\Blockade Defense\bin\Windows\Debug\Blockade Defense.exe
+D:\Blockade Defense\Blockade Defense\bin\Windows\Debug\Blockade Defense.pdb
+D:\Blockade Defense\Blockade Defense\bin\Windows\Debug\MonoGame.Framework.dll
+D:\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+D:\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.dll
+D:\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.XAudio2.dll
+D:\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.Direct3D11.dll
+D:\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.DXGI.dll
+D:\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.Direct2D1.dll
+D:\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.XInput.dll
+D:\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.RawInput.dll
+D:\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.Direct3D9.dll
+D:\Blockade Defense\Blockade Defense\bin\Windows\Debug\MonoGame.Framework.xml
+D:\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+D:\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.xml
+D:\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.XAudio2.xml
+D:\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.Direct3D11.xml
+D:\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.DXGI.xml
+D:\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.Direct2D1.xml
+D:\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.XInput.xml
+D:\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.RawInput.xml
+D:\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.Direct3D9.xml
+D:\Blockade Defense 11-3 UPDATE\Blockade Defense\Blockade Defense\obj\x86\Debug\Blockade Defense.exe
+D:\Blockade Defense 11-3 UPDATE\Blockade Defense\Blockade Defense\obj\x86\Debug\Blockade Defense.pdb
+D:\Blockade Defense 11-3 UPDATE\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\EmptyTile.xnb
+D:\Blockade Defense 11-3 UPDATE\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\EndGameHover.xnb
+D:\Blockade Defense 11-3 UPDATE\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\Game.xnb
+D:\Blockade Defense 11-3 UPDATE\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\GameOver.xnb
+D:\Blockade Defense 11-3 UPDATE\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\HelpButton.xnb
+D:\Blockade Defense 11-3 UPDATE\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\HelpButtonHover.xnb
+D:\Blockade Defense 11-3 UPDATE\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\LevelDifficultyButton.xnb
+D:\Blockade Defense 11-3 UPDATE\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\MainMenu.xnb
+D:\Blockade Defense 11-3 UPDATE\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\MainMenuButton.xnb
+D:\Blockade Defense 11-3 UPDATE\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\MainMenuButtonHover.xnb
+D:\Blockade Defense 11-3 UPDATE\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\MapSelectionButton.xnb
+D:\Blockade Defense 11-3 UPDATE\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\PathBlock.xnb
+D:\Blockade Defense 11-3 UPDATE\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\PlayGameButton.xnb
+D:\Blockade Defense 11-3 UPDATE\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\PlayGameButtonHover.xnb
+D:\Blockade Defense 11-3 UPDATE\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\PressEnter.xnb
+D:\Blockade Defense 11-3 UPDATE\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\PressEnterBlink.xnb
+D:\Blockade Defense 11-3 UPDATE\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\QuitGameButton.xnb
+D:\Blockade Defense 11-3 UPDATE\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\QuitGameButtonHover.xnb
+D:\Blockade Defense 11-3 UPDATE\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\StartNextWaveHover.xnb
+D:\Blockade Defense 11-3 UPDATE\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\SubPlaceholder.xnb
+D:\Blockade Defense 11-3 UPDATE\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\TitleScreen.xnb
+D:\Blockade Defense 11-3 UPDATE\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\TowerPlaceholder.xnb
+D:\Blockade Defense 11-3 UPDATE\Blockade Defense\Blockade Defense\bin\Windows\Debug\Blockade Defense.exe
+D:\Blockade Defense 11-3 UPDATE\Blockade Defense\Blockade Defense\bin\Windows\Debug\Blockade Defense.pdb
+D:\Blockade Defense 11-3 UPDATE\Blockade Defense\Blockade Defense\bin\Windows\Debug\MonoGame.Framework.dll
+D:\Blockade Defense 11-3 UPDATE\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+D:\Blockade Defense 11-3 UPDATE\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.dll
+D:\Blockade Defense 11-3 UPDATE\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.XAudio2.dll
+D:\Blockade Defense 11-3 UPDATE\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.Direct3D11.dll
+D:\Blockade Defense 11-3 UPDATE\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.DXGI.dll
+D:\Blockade Defense 11-3 UPDATE\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.Direct2D1.dll
+D:\Blockade Defense 11-3 UPDATE\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.XInput.dll
+D:\Blockade Defense 11-3 UPDATE\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.RawInput.dll
+D:\Blockade Defense 11-3 UPDATE\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.Direct3D9.dll
+D:\Blockade Defense 11-3 UPDATE\Blockade Defense\Blockade Defense\bin\Windows\Debug\MonoGame.Framework.xml
+D:\Blockade Defense 11-3 UPDATE\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+D:\Blockade Defense 11-3 UPDATE\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.xml
+D:\Blockade Defense 11-3 UPDATE\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.XAudio2.xml
+D:\Blockade Defense 11-3 UPDATE\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.Direct3D11.xml
+D:\Blockade Defense 11-3 UPDATE\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.DXGI.xml
+D:\Blockade Defense 11-3 UPDATE\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.Direct2D1.xml
+D:\Blockade Defense 11-3 UPDATE\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.XInput.xml
+D:\Blockade Defense 11-3 UPDATE\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.RawInput.xml
+D:\Blockade Defense 11-3 UPDATE\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.Direct3D9.xml
+D:\Blockade Defense 11-3 UPDATE\Blockade Defense\Blockade Defense\obj\x86\Debug\Blockade Defense.csprojResolveAssemblyReference.cache
+D:\Blockade Defense 11-3 UPDATE\Blockade Defense 11-3 UPDATE\Blockade Defense\Blockade Defense\obj\x86\Debug\Blockade Defense.exe
+D:\Blockade Defense 11-3 UPDATE\Blockade Defense 11-3 UPDATE\Blockade Defense\Blockade Defense\obj\x86\Debug\Blockade Defense.pdb
+D:\Blockade Defense 11-3 UPDATE\Blockade Defense 11-3 UPDATE\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\EmptyTile.xnb
+D:\Blockade Defense 11-3 UPDATE\Blockade Defense 11-3 UPDATE\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\EndGameHover.xnb
+D:\Blockade Defense 11-3 UPDATE\Blockade Defense 11-3 UPDATE\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\Game.xnb
+D:\Blockade Defense 11-3 UPDATE\Blockade Defense 11-3 UPDATE\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\GameOver.xnb
+D:\Blockade Defense 11-3 UPDATE\Blockade Defense 11-3 UPDATE\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\HelpButton.xnb
+D:\Blockade Defense 11-3 UPDATE\Blockade Defense 11-3 UPDATE\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\HelpButtonHover.xnb
+D:\Blockade Defense 11-3 UPDATE\Blockade Defense 11-3 UPDATE\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\LevelDifficultyButton.xnb
+D:\Blockade Defense 11-3 UPDATE\Blockade Defense 11-3 UPDATE\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\MainMenu.xnb
+D:\Blockade Defense 11-3 UPDATE\Blockade Defense 11-3 UPDATE\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\MainMenuButton.xnb
+D:\Blockade Defense 11-3 UPDATE\Blockade Defense 11-3 UPDATE\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\MainMenuButtonHover.xnb
+D:\Blockade Defense 11-3 UPDATE\Blockade Defense 11-3 UPDATE\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\MapSelectionButton.xnb
+D:\Blockade Defense 11-3 UPDATE\Blockade Defense 11-3 UPDATE\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\PathBlock.xnb
+D:\Blockade Defense 11-3 UPDATE\Blockade Defense 11-3 UPDATE\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\PlayGameButton.xnb
+D:\Blockade Defense 11-3 UPDATE\Blockade Defense 11-3 UPDATE\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\PlayGameButtonHover.xnb
+D:\Blockade Defense 11-3 UPDATE\Blockade Defense 11-3 UPDATE\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\PressEnter.xnb
+D:\Blockade Defense 11-3 UPDATE\Blockade Defense 11-3 UPDATE\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\PressEnterBlink.xnb
+D:\Blockade Defense 11-3 UPDATE\Blockade Defense 11-3 UPDATE\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\QuitGameButton.xnb
+D:\Blockade Defense 11-3 UPDATE\Blockade Defense 11-3 UPDATE\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\QuitGameButtonHover.xnb
+D:\Blockade Defense 11-3 UPDATE\Blockade Defense 11-3 UPDATE\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\StartNextWaveHover.xnb
+D:\Blockade Defense 11-3 UPDATE\Blockade Defense 11-3 UPDATE\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\SubPlaceholder.xnb
+D:\Blockade Defense 11-3 UPDATE\Blockade Defense 11-3 UPDATE\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\TitleScreen.xnb
+D:\Blockade Defense 11-3 UPDATE\Blockade Defense 11-3 UPDATE\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\TowerPlaceholder.xnb
+D:\Blockade Defense 11-3 UPDATE\Blockade Defense 11-3 UPDATE\Blockade Defense\Blockade Defense\bin\Windows\Debug\Blockade Defense.exe
+D:\Blockade Defense 11-3 UPDATE\Blockade Defense 11-3 UPDATE\Blockade Defense\Blockade Defense\bin\Windows\Debug\Blockade Defense.pdb
+D:\Blockade Defense 11-3 UPDATE\Blockade Defense 11-3 UPDATE\Blockade Defense\Blockade Defense\bin\Windows\Debug\MonoGame.Framework.dll
+D:\Blockade Defense 11-3 UPDATE\Blockade Defense 11-3 UPDATE\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+D:\Blockade Defense 11-3 UPDATE\Blockade Defense 11-3 UPDATE\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.dll
+D:\Blockade Defense 11-3 UPDATE\Blockade Defense 11-3 UPDATE\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.XAudio2.dll
+D:\Blockade Defense 11-3 UPDATE\Blockade Defense 11-3 UPDATE\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.Direct3D11.dll
+D:\Blockade Defense 11-3 UPDATE\Blockade Defense 11-3 UPDATE\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.DXGI.dll
+D:\Blockade Defense 11-3 UPDATE\Blockade Defense 11-3 UPDATE\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.Direct2D1.dll
+D:\Blockade Defense 11-3 UPDATE\Blockade Defense 11-3 UPDATE\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.XInput.dll
+D:\Blockade Defense 11-3 UPDATE\Blockade Defense 11-3 UPDATE\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.RawInput.dll
+D:\Blockade Defense 11-3 UPDATE\Blockade Defense 11-3 UPDATE\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.Direct3D9.dll
+D:\Blockade Defense 11-3 UPDATE\Blockade Defense 11-3 UPDATE\Blockade Defense\Blockade Defense\bin\Windows\Debug\MonoGame.Framework.xml
+D:\Blockade Defense 11-3 UPDATE\Blockade Defense 11-3 UPDATE\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+D:\Blockade Defense 11-3 UPDATE\Blockade Defense 11-3 UPDATE\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.xml
+D:\Blockade Defense 11-3 UPDATE\Blockade Defense 11-3 UPDATE\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.XAudio2.xml
+D:\Blockade Defense 11-3 UPDATE\Blockade Defense 11-3 UPDATE\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.Direct3D11.xml
+D:\Blockade Defense 11-3 UPDATE\Blockade Defense 11-3 UPDATE\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.DXGI.xml
+D:\Blockade Defense 11-3 UPDATE\Blockade Defense 11-3 UPDATE\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.Direct2D1.xml
+D:\Blockade Defense 11-3 UPDATE\Blockade Defense 11-3 UPDATE\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.XInput.xml
+D:\Blockade Defense 11-3 UPDATE\Blockade Defense 11-3 UPDATE\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.RawInput.xml
+D:\Blockade Defense 11-3 UPDATE\Blockade Defense 11-3 UPDATE\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.Direct3D9.xml
+D:\Blockade Defense 11-3 UPDATE\Blockade Defense 11-3 UPDATE\Blockade Defense\Blockade Defense\obj\x86\Debug\Blockade Defense.csprojResolveAssemblyReference.cache
+D:\Blockade Defense 11-3 UPDATE\Blockade Defense 11-3 UPDATE\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\mySpriteFont.xnb
+D:\Blockade Defense 11-3 UPDATE\Blockade Defense 11-3 UPDATE\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\mySpriteFont2.xnb
+D:\Blockade Defense 11-3 UPDATE\Blockade Defense 11-3 UPDATE\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\mySpriteFont3.xnb
+D:\Blockade Defense 11-4 UPDATE\Blockade Defense 11-3 UPDATE\Blockade Defense\Blockade Defense\obj\x86\Debug\Blockade Defense.exe
+D:\Blockade Defense 11-4 UPDATE\Blockade Defense 11-3 UPDATE\Blockade Defense\Blockade Defense\obj\x86\Debug\Blockade Defense.pdb
+D:\Blockade Defense 11-4 UPDATE\Blockade Defense 11-3 UPDATE\Blockade Defense\Blockade Defense\bin\Windows\Debug\Blockade Defense.exe
+D:\Blockade Defense 11-4 UPDATE\Blockade Defense 11-3 UPDATE\Blockade Defense\Blockade Defense\bin\Windows\Debug\Blockade Defense.pdb
+D:\Blockade Defense 11-4 UPDATE\Blockade Defense 11-3 UPDATE\Blockade Defense\Blockade Defense\bin\Windows\Debug\MonoGame.Framework.dll
+D:\Blockade Defense 11-4 UPDATE\Blockade Defense 11-3 UPDATE\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+D:\Blockade Defense 11-4 UPDATE\Blockade Defense 11-3 UPDATE\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.dll
+D:\Blockade Defense 11-4 UPDATE\Blockade Defense 11-3 UPDATE\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.XAudio2.dll
+D:\Blockade Defense 11-4 UPDATE\Blockade Defense 11-3 UPDATE\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.Direct3D11.dll
+D:\Blockade Defense 11-4 UPDATE\Blockade Defense 11-3 UPDATE\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.DXGI.dll
+D:\Blockade Defense 11-4 UPDATE\Blockade Defense 11-3 UPDATE\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.Direct2D1.dll
+D:\Blockade Defense 11-4 UPDATE\Blockade Defense 11-3 UPDATE\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.XInput.dll
+D:\Blockade Defense 11-4 UPDATE\Blockade Defense 11-3 UPDATE\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.RawInput.dll
+D:\Blockade Defense 11-4 UPDATE\Blockade Defense 11-3 UPDATE\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.Direct3D9.dll
+D:\Blockade Defense 11-4 UPDATE\Blockade Defense 11-3 UPDATE\Blockade Defense\Blockade Defense\bin\Windows\Debug\MonoGame.Framework.xml
+D:\Blockade Defense 11-4 UPDATE\Blockade Defense 11-3 UPDATE\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+D:\Blockade Defense 11-4 UPDATE\Blockade Defense 11-3 UPDATE\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.xml
+D:\Blockade Defense 11-4 UPDATE\Blockade Defense 11-3 UPDATE\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.XAudio2.xml
+D:\Blockade Defense 11-4 UPDATE\Blockade Defense 11-3 UPDATE\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.Direct3D11.xml
+D:\Blockade Defense 11-4 UPDATE\Blockade Defense 11-3 UPDATE\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.DXGI.xml
+D:\Blockade Defense 11-4 UPDATE\Blockade Defense 11-3 UPDATE\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.Direct2D1.xml
+D:\Blockade Defense 11-4 UPDATE\Blockade Defense 11-3 UPDATE\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.XInput.xml
+D:\Blockade Defense 11-4 UPDATE\Blockade Defense 11-3 UPDATE\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.RawInput.xml
+D:\Blockade Defense 11-4 UPDATE\Blockade Defense 11-3 UPDATE\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.Direct3D9.xml
+D:\Blockade Defense 11-4 UPDATE\Blockade Defense 11-3 UPDATE\Blockade Defense\Blockade Defense\obj\x86\Debug\Blockade Defense.csprojResolveAssemblyReference.cache
+E:\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\EmptyTile.xnb
+E:\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\mySpriteFont.xnb
+E:\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\mySpriteFont2.xnb
+E:\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\mySpriteFont3.xnb
+E:\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\Pulse1.xnb
+C:\Users\easpo_000\Downloads\Blockade Defense 11-5\Blockade Defense\Blockade Defense\obj\x86\Debug\Blockade Defense.exe
+C:\Users\easpo_000\Downloads\Blockade Defense 11-5\Blockade Defense\Blockade Defense\obj\x86\Debug\Blockade Defense.pdb
+C:\Users\easpo_000\Downloads\Blockade Defense 11-5\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\EmptyTile.xnb
+C:\Users\easpo_000\Downloads\Blockade Defense 11-5\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\EndGameHover.xnb
+C:\Users\easpo_000\Downloads\Blockade Defense 11-5\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\Game.xnb
+C:\Users\easpo_000\Downloads\Blockade Defense 11-5\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\GameOver.xnb
+C:\Users\easpo_000\Downloads\Blockade Defense 11-5\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\HelpButton.xnb
+C:\Users\easpo_000\Downloads\Blockade Defense 11-5\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\HelpButtonHover.xnb
+C:\Users\easpo_000\Downloads\Blockade Defense 11-5\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\LevelDifficultyButton.xnb
+C:\Users\easpo_000\Downloads\Blockade Defense 11-5\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\MainMenu.xnb
+C:\Users\easpo_000\Downloads\Blockade Defense 11-5\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\MainMenuButton.xnb
+C:\Users\easpo_000\Downloads\Blockade Defense 11-5\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\MainMenuButtonHover.xnb
+C:\Users\easpo_000\Downloads\Blockade Defense 11-5\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\MapSelectionButton.xnb
+C:\Users\easpo_000\Downloads\Blockade Defense 11-5\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\mySpriteFont.xnb
+C:\Users\easpo_000\Downloads\Blockade Defense 11-5\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\mySpriteFont2.xnb
+C:\Users\easpo_000\Downloads\Blockade Defense 11-5\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\mySpriteFont3.xnb
+C:\Users\easpo_000\Downloads\Blockade Defense 11-5\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\PathBlock.xnb
+C:\Users\easpo_000\Downloads\Blockade Defense 11-5\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\PlayGameButton.xnb
+C:\Users\easpo_000\Downloads\Blockade Defense 11-5\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\PlayGameButtonHover.xnb
+C:\Users\easpo_000\Downloads\Blockade Defense 11-5\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\PressEnter.xnb
+C:\Users\easpo_000\Downloads\Blockade Defense 11-5\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\PressEnterBlink.xnb
+C:\Users\easpo_000\Downloads\Blockade Defense 11-5\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\Pulse1.xnb
+C:\Users\easpo_000\Downloads\Blockade Defense 11-5\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\QuitGameButton.xnb
+C:\Users\easpo_000\Downloads\Blockade Defense 11-5\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\QuitGameButtonHover.xnb
+C:\Users\easpo_000\Downloads\Blockade Defense 11-5\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\StartNextWaveHover.xnb
+C:\Users\easpo_000\Downloads\Blockade Defense 11-5\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\SubPlaceholder.xnb
+C:\Users\easpo_000\Downloads\Blockade Defense 11-5\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\TitleScreen.xnb
+C:\Users\easpo_000\Downloads\Blockade Defense 11-5\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\TowerPlaceholder.xnb
+C:\Users\easpo_000\Downloads\Blockade Defense 11-5\Blockade Defense\Blockade Defense\bin\Windows\Debug\Blockade Defense.exe
+C:\Users\easpo_000\Downloads\Blockade Defense 11-5\Blockade Defense\Blockade Defense\bin\Windows\Debug\Blockade Defense.pdb
+C:\Users\easpo_000\Downloads\Blockade Defense 11-5\Blockade Defense\Blockade Defense\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\easpo_000\Downloads\Blockade Defense 11-5\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\easpo_000\Downloads\Blockade Defense 11-5\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.dll
+C:\Users\easpo_000\Downloads\Blockade Defense 11-5\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\easpo_000\Downloads\Blockade Defense 11-5\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\easpo_000\Downloads\Blockade Defense 11-5\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\easpo_000\Downloads\Blockade Defense 11-5\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\easpo_000\Downloads\Blockade Defense 11-5\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\easpo_000\Downloads\Blockade Defense 11-5\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\easpo_000\Downloads\Blockade Defense 11-5\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\easpo_000\Downloads\Blockade Defense 11-5\Blockade Defense\Blockade Defense\bin\Windows\Debug\MonoGame.Framework.xml
+C:\Users\easpo_000\Downloads\Blockade Defense 11-5\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\easpo_000\Downloads\Blockade Defense 11-5\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.xml
+C:\Users\easpo_000\Downloads\Blockade Defense 11-5\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\easpo_000\Downloads\Blockade Defense 11-5\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\easpo_000\Downloads\Blockade Defense 11-5\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\easpo_000\Downloads\Blockade Defense 11-5\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\easpo_000\Downloads\Blockade Defense 11-5\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\easpo_000\Downloads\Blockade Defense 11-5\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\easpo_000\Downloads\Blockade Defense 11-5\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\easpo_000\Downloads\Blockade Defense 11-5\Blockade Defense\Blockade Defense\obj\x86\Debug\Blockade Defense.csprojResolveAssemblyReference.cache
+D:\Blockade Defense 11-5\Blockade Defense\Blockade Defense\obj\x86\Debug\Blockade Defense.exe
+D:\Blockade Defense 11-5\Blockade Defense\Blockade Defense\obj\x86\Debug\Blockade Defense.pdb
+D:\Blockade Defense 11-5\Blockade Defense\Blockade Defense\bin\Windows\Debug\Blockade Defense.exe
+D:\Blockade Defense 11-5\Blockade Defense\Blockade Defense\bin\Windows\Debug\Blockade Defense.pdb
+D:\Blockade Defense 11-5\Blockade Defense\Blockade Defense\bin\Windows\Debug\MonoGame.Framework.dll
+D:\Blockade Defense 11-5\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+D:\Blockade Defense 11-5\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.dll
+D:\Blockade Defense 11-5\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.XAudio2.dll
+D:\Blockade Defense 11-5\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.Direct3D11.dll
+D:\Blockade Defense 11-5\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.DXGI.dll
+D:\Blockade Defense 11-5\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.Direct2D1.dll
+D:\Blockade Defense 11-5\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.XInput.dll
+D:\Blockade Defense 11-5\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.RawInput.dll
+D:\Blockade Defense 11-5\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.Direct3D9.dll
+D:\Blockade Defense 11-5\Blockade Defense\Blockade Defense\bin\Windows\Debug\MonoGame.Framework.xml
+D:\Blockade Defense 11-5\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+D:\Blockade Defense 11-5\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.xml
+D:\Blockade Defense 11-5\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.XAudio2.xml
+D:\Blockade Defense 11-5\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.Direct3D11.xml
+D:\Blockade Defense 11-5\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.DXGI.xml
+D:\Blockade Defense 11-5\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.Direct2D1.xml
+D:\Blockade Defense 11-5\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.XInput.xml
+D:\Blockade Defense 11-5\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.RawInput.xml
+D:\Blockade Defense 11-5\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.Direct3D9.xml
+D:\Blockade Defense 11-5\Blockade Defense\Blockade Defense\obj\x86\Debug\Blockade Defense.csprojResolveAssemblyReference.cache
+D:\Blockade Defense Milestone2\Blockade Defense\Blockade Defense\obj\x86\Debug\Blockade Defense.exe
+D:\Blockade Defense Milestone2\Blockade Defense\Blockade Defense\obj\x86\Debug\Blockade Defense.pdb
+D:\Blockade Defense Milestone2\Blockade Defense\Blockade Defense\bin\Windows\Debug\Blockade Defense.exe
+D:\Blockade Defense Milestone2\Blockade Defense\Blockade Defense\bin\Windows\Debug\Blockade Defense.pdb
+D:\Blockade Defense Milestone2\Blockade Defense\Blockade Defense\bin\Windows\Debug\MonoGame.Framework.dll
+D:\Blockade Defense Milestone2\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+D:\Blockade Defense Milestone2\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.dll
+D:\Blockade Defense Milestone2\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.XAudio2.dll
+D:\Blockade Defense Milestone2\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.Direct3D11.dll
+D:\Blockade Defense Milestone2\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.DXGI.dll
+D:\Blockade Defense Milestone2\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.Direct2D1.dll
+D:\Blockade Defense Milestone2\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.XInput.dll
+D:\Blockade Defense Milestone2\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.RawInput.dll
+D:\Blockade Defense Milestone2\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.Direct3D9.dll
+D:\Blockade Defense Milestone2\Blockade Defense\Blockade Defense\bin\Windows\Debug\MonoGame.Framework.xml
+D:\Blockade Defense Milestone2\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+D:\Blockade Defense Milestone2\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.xml
+D:\Blockade Defense Milestone2\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.XAudio2.xml
+D:\Blockade Defense Milestone2\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.Direct3D11.xml
+D:\Blockade Defense Milestone2\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.DXGI.xml
+D:\Blockade Defense Milestone2\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.Direct2D1.xml
+D:\Blockade Defense Milestone2\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.XInput.xml
+D:\Blockade Defense Milestone2\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.RawInput.xml
+D:\Blockade Defense Milestone2\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.Direct3D9.xml
+D:\Blockade Defense Milestone2\Blockade Defense\Blockade Defense\obj\x86\Debug\Blockade Defense.csprojResolveAssemblyReference.cache
+D:\Blockade Defense Milestone2\Blockade Defense\Blockade Defense\obj\x86\Debug\Blockade_Defense.Name.resources
+D:\Blockade Defense Milestone2\Blockade Defense\Blockade Defense\obj\x86\Debug\Blockade Defense.csproj.GenerateResource.Cache
+D:\Blockade Defense Update 11-12-15\Blockade Defense\Blockade Defense\obj\x86\Debug\Blockade Defense.exe
+D:\Blockade Defense Update 11-12-15\Blockade Defense\Blockade Defense\obj\x86\Debug\Blockade Defense.pdb
+D:\Blockade Defense Update 11-12-15\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\EmptyTile.xnb
+D:\Blockade Defense Update 11-12-15\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\EndGameHover.xnb
+D:\Blockade Defense Update 11-12-15\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\Game.xnb
+D:\Blockade Defense Update 11-12-15\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\GameOver.xnb
+D:\Blockade Defense Update 11-12-15\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\HelpButton.xnb
+D:\Blockade Defense Update 11-12-15\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\HelpButtonHover.xnb
+D:\Blockade Defense Update 11-12-15\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\LevelDifficultyButton.xnb
+D:\Blockade Defense Update 11-12-15\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\MainMenu.xnb
+D:\Blockade Defense Update 11-12-15\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\MainMenuButton.xnb
+D:\Blockade Defense Update 11-12-15\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\MainMenuButtonHover.xnb
+D:\Blockade Defense Update 11-12-15\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\MapSelectionButton.xnb
+D:\Blockade Defense Update 11-12-15\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\mySpriteFont.xnb
+D:\Blockade Defense Update 11-12-15\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\mySpriteFont2.xnb
+D:\Blockade Defense Update 11-12-15\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\mySpriteFont3.xnb
+D:\Blockade Defense Update 11-12-15\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\PathBlock.xnb
+D:\Blockade Defense Update 11-12-15\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\PlayGameButton.xnb
+D:\Blockade Defense Update 11-12-15\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\PlayGameButtonHover.xnb
+D:\Blockade Defense Update 11-12-15\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\PressEnter.xnb
+D:\Blockade Defense Update 11-12-15\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\PressEnterBlink.xnb
+D:\Blockade Defense Update 11-12-15\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\Pulse1.xnb
+D:\Blockade Defense Update 11-12-15\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\QuitGameButton.xnb
+D:\Blockade Defense Update 11-12-15\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\QuitGameButtonHover.xnb
+D:\Blockade Defense Update 11-12-15\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\StartNextWaveHover.xnb
+D:\Blockade Defense Update 11-12-15\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\SubPlaceholder.xnb
+D:\Blockade Defense Update 11-12-15\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\TitleScreen.xnb
+D:\Blockade Defense Update 11-12-15\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\TowerPlaceholder.xnb
+D:\Blockade Defense Update 11-12-15\Blockade Defense\Blockade Defense\bin\Windows\Debug\Blockade Defense.exe
+D:\Blockade Defense Update 11-12-15\Blockade Defense\Blockade Defense\bin\Windows\Debug\Blockade Defense.pdb
+D:\Blockade Defense Update 11-12-15\Blockade Defense\Blockade Defense\bin\Windows\Debug\MonoGame.Framework.dll
+D:\Blockade Defense Update 11-12-15\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+D:\Blockade Defense Update 11-12-15\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.dll
+D:\Blockade Defense Update 11-12-15\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.XAudio2.dll
+D:\Blockade Defense Update 11-12-15\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.Direct3D11.dll
+D:\Blockade Defense Update 11-12-15\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.DXGI.dll
+D:\Blockade Defense Update 11-12-15\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.Direct2D1.dll
+D:\Blockade Defense Update 11-12-15\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.XInput.dll
+D:\Blockade Defense Update 11-12-15\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.RawInput.dll
+D:\Blockade Defense Update 11-12-15\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.Direct3D9.dll
+D:\Blockade Defense Update 11-12-15\Blockade Defense\Blockade Defense\bin\Windows\Debug\MonoGame.Framework.xml
+D:\Blockade Defense Update 11-12-15\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+D:\Blockade Defense Update 11-12-15\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.xml
+D:\Blockade Defense Update 11-12-15\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.XAudio2.xml
+D:\Blockade Defense Update 11-12-15\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.Direct3D11.xml
+D:\Blockade Defense Update 11-12-15\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.DXGI.xml
+D:\Blockade Defense Update 11-12-15\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.Direct2D1.xml
+D:\Blockade Defense Update 11-12-15\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.XInput.xml
+D:\Blockade Defense Update 11-12-15\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.RawInput.xml
+D:\Blockade Defense Update 11-12-15\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.Direct3D9.xml
+D:\Blockade Defense Update 11-12-15\Blockade Defense\Blockade Defense\obj\x86\Debug\Blockade Defense.csprojResolveAssemblyReference.cache
+D:\Blockade Defense Update 11-12-15\Blockade Defense\Blockade Defense\obj\x86\Debug\Blockade_Defense.Name.resources
+D:\Blockade Defense Update 11-12-15\Blockade Defense\Blockade Defense\obj\x86\Debug\Blockade Defense.csproj.GenerateResource.Cache
+D:\Blockade Defense Update 11-12-15\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\TowerPlaceholder2.xnb
+D:\Blockade Defense Update 11-13\Blockade Defense\Blockade Defense\obj\x86\Debug\Blockade Defense.exe
+D:\Blockade Defense Update 11-13\Blockade Defense\Blockade Defense\obj\x86\Debug\Blockade Defense.pdb
+D:\Blockade Defense Update 11-13\Blockade Defense\Blockade Defense\bin\Windows\Debug\Blockade Defense.exe
+D:\Blockade Defense Update 11-13\Blockade Defense\Blockade Defense\bin\Windows\Debug\Blockade Defense.pdb
+D:\Blockade Defense Update 11-13\Blockade Defense\Blockade Defense\bin\Windows\Debug\MonoGame.Framework.dll
+D:\Blockade Defense Update 11-13\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+D:\Blockade Defense Update 11-13\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.dll
+D:\Blockade Defense Update 11-13\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.XAudio2.dll
+D:\Blockade Defense Update 11-13\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.Direct3D11.dll
+D:\Blockade Defense Update 11-13\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.DXGI.dll
+D:\Blockade Defense Update 11-13\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.Direct2D1.dll
+D:\Blockade Defense Update 11-13\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.XInput.dll
+D:\Blockade Defense Update 11-13\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.RawInput.dll
+D:\Blockade Defense Update 11-13\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.Direct3D9.dll
+D:\Blockade Defense Update 11-13\Blockade Defense\Blockade Defense\bin\Windows\Debug\MonoGame.Framework.xml
+D:\Blockade Defense Update 11-13\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+D:\Blockade Defense Update 11-13\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.xml
+D:\Blockade Defense Update 11-13\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.XAudio2.xml
+D:\Blockade Defense Update 11-13\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.Direct3D11.xml
+D:\Blockade Defense Update 11-13\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.DXGI.xml
+D:\Blockade Defense Update 11-13\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.Direct2D1.xml
+D:\Blockade Defense Update 11-13\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.XInput.xml
+D:\Blockade Defense Update 11-13\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.RawInput.xml
+D:\Blockade Defense Update 11-13\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.Direct3D9.xml
+D:\Blockade Defense Update 11-13\Blockade Defense\Blockade Defense\obj\x86\Debug\Blockade Defense.csprojResolveAssemblyReference.cache
+D:\Blockade Defense Update 11-13\Blockade Defense\Blockade Defense\obj\x86\Debug\Blockade_Defense.Name.resources
+D:\Blockade Defense Update 11-13\Blockade Defense\Blockade Defense\obj\x86\Debug\Blockade Defense.csproj.GenerateResource.Cache
+D:\Blockade Defense 11-17\Blockade Defense\Blockade Defense\obj\x86\Debug\Blockade Defense.exe
+D:\Blockade Defense 11-17\Blockade Defense\Blockade Defense\obj\x86\Debug\Blockade Defense.pdb
+D:\Blockade Defense 11-17\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\EmptyTile.xnb
+D:\Blockade Defense 11-17\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\EndGameHover.xnb
+D:\Blockade Defense 11-17\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\Game.xnb
+D:\Blockade Defense 11-17\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\GameOver.xnb
+D:\Blockade Defense 11-17\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\HelpButton.xnb
+D:\Blockade Defense 11-17\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\HelpButtonHover.xnb
+D:\Blockade Defense 11-17\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\LevelDifficultyButton.xnb
+D:\Blockade Defense 11-17\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\MainMenu.xnb
+D:\Blockade Defense 11-17\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\MainMenuButton.xnb
+D:\Blockade Defense 11-17\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\MainMenuButtonHover.xnb
+D:\Blockade Defense 11-17\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\MapSelectionButton.xnb
+D:\Blockade Defense 11-17\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\mySpriteFont.xnb
+D:\Blockade Defense 11-17\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\mySpriteFont2.xnb
+D:\Blockade Defense 11-17\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\mySpriteFont3.xnb
+D:\Blockade Defense 11-17\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\PathBlock.xnb
+D:\Blockade Defense 11-17\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\PlayGameButton.xnb
+D:\Blockade Defense 11-17\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\PlayGameButtonHover.xnb
+D:\Blockade Defense 11-17\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\PressEnter.xnb
+D:\Blockade Defense 11-17\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\PressEnterBlink.xnb
+D:\Blockade Defense 11-17\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\Pulse1.xnb
+D:\Blockade Defense 11-17\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\QuitGameButton.xnb
+D:\Blockade Defense 11-17\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\QuitGameButtonHover.xnb
+D:\Blockade Defense 11-17\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\StartNextWaveHover.xnb
+D:\Blockade Defense 11-17\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\SubPlaceholder.xnb
+D:\Blockade Defense 11-17\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\TitleScreen.xnb
+D:\Blockade Defense 11-17\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\TowerPlaceholder.xnb
+D:\Blockade Defense 11-17\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\TowerPlaceholder2.xnb
+D:\Blockade Defense 11-17\Blockade Defense\Blockade Defense\bin\Windows\Debug\Blockade Defense.exe
+D:\Blockade Defense 11-17\Blockade Defense\Blockade Defense\bin\Windows\Debug\Blockade Defense.pdb
+D:\Blockade Defense 11-17\Blockade Defense\Blockade Defense\bin\Windows\Debug\MonoGame.Framework.dll
+D:\Blockade Defense 11-17\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+D:\Blockade Defense 11-17\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.dll
+D:\Blockade Defense 11-17\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.XAudio2.dll
+D:\Blockade Defense 11-17\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.Direct3D11.dll
+D:\Blockade Defense 11-17\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.DXGI.dll
+D:\Blockade Defense 11-17\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.Direct2D1.dll
+D:\Blockade Defense 11-17\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.XInput.dll
+D:\Blockade Defense 11-17\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.RawInput.dll
+D:\Blockade Defense 11-17\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.Direct3D9.dll
+D:\Blockade Defense 11-17\Blockade Defense\Blockade Defense\bin\Windows\Debug\MonoGame.Framework.xml
+D:\Blockade Defense 11-17\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+D:\Blockade Defense 11-17\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.xml
+D:\Blockade Defense 11-17\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.XAudio2.xml
+D:\Blockade Defense 11-17\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.Direct3D11.xml
+D:\Blockade Defense 11-17\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.DXGI.xml
+D:\Blockade Defense 11-17\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.Direct2D1.xml
+D:\Blockade Defense 11-17\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.XInput.xml
+D:\Blockade Defense 11-17\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.RawInput.xml
+D:\Blockade Defense 11-17\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.Direct3D9.xml
+D:\Blockade Defense 11-17\Blockade Defense\Blockade Defense\obj\x86\Debug\Blockade Defense.csprojResolveAssemblyReference.cache
+D:\Blockade Defense 11-17\Blockade Defense\Blockade Defense\obj\x86\Debug\Blockade_Defense.Name.resources
+D:\Blockade Defense 11-17\Blockade Defense\Blockade Defense\obj\x86\Debug\Blockade Defense.csproj.GenerateResource.Cache
+D:\Blockade Defense 11-17\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\SubPlaceholder2.xnb
+D:\Blockade Defense MOST RECENT 11-17\Blockade Defense\Blockade Defense\obj\x86\Debug\Blockade Defense.exe
+D:\Blockade Defense MOST RECENT 11-17\Blockade Defense\Blockade Defense\obj\x86\Debug\Blockade Defense.pdb
+D:\Blockade Defense MOST RECENT 11-17\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\EmptyTile.xnb
+D:\Blockade Defense MOST RECENT 11-17\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\EndGameHover.xnb
+D:\Blockade Defense MOST RECENT 11-17\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\Game.xnb
+D:\Blockade Defense MOST RECENT 11-17\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\GameOver.xnb
+D:\Blockade Defense MOST RECENT 11-17\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\HelpButton.xnb
+D:\Blockade Defense MOST RECENT 11-17\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\HelpButtonHover.xnb
+D:\Blockade Defense MOST RECENT 11-17\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\LevelDifficultyButton.xnb
+D:\Blockade Defense MOST RECENT 11-17\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\MainMenu.xnb
+D:\Blockade Defense MOST RECENT 11-17\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\MainMenuButton.xnb
+D:\Blockade Defense MOST RECENT 11-17\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\MainMenuButtonHover.xnb
+D:\Blockade Defense MOST RECENT 11-17\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\MapSelectionButton.xnb
+D:\Blockade Defense MOST RECENT 11-17\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\mySpriteFont.xnb
+D:\Blockade Defense MOST RECENT 11-17\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\mySpriteFont2.xnb
+D:\Blockade Defense MOST RECENT 11-17\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\mySpriteFont3.xnb
+D:\Blockade Defense MOST RECENT 11-17\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\PathBlock.xnb
+D:\Blockade Defense MOST RECENT 11-17\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\PlayGameButton.xnb
+D:\Blockade Defense MOST RECENT 11-17\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\PlayGameButtonHover.xnb
+D:\Blockade Defense MOST RECENT 11-17\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\PressEnter.xnb
+D:\Blockade Defense MOST RECENT 11-17\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\PressEnterBlink.xnb
+D:\Blockade Defense MOST RECENT 11-17\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\Pulse1.xnb
+D:\Blockade Defense MOST RECENT 11-17\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\QuitGameButton.xnb
+D:\Blockade Defense MOST RECENT 11-17\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\QuitGameButtonHover.xnb
+D:\Blockade Defense MOST RECENT 11-17\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\StartNextWaveHover.xnb
+D:\Blockade Defense MOST RECENT 11-17\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\SubPlaceholder.xnb
+D:\Blockade Defense MOST RECENT 11-17\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\SubPlaceholder2.xnb
+D:\Blockade Defense MOST RECENT 11-17\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\TitleScreen.xnb
+D:\Blockade Defense MOST RECENT 11-17\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\TowerPlaceholder.xnb
+D:\Blockade Defense MOST RECENT 11-17\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\TowerPlaceholder2.xnb
+D:\Blockade Defense MOST RECENT 11-17\Blockade Defense\Blockade Defense\bin\Windows\Debug\Blockade Defense.exe
+D:\Blockade Defense MOST RECENT 11-17\Blockade Defense\Blockade Defense\bin\Windows\Debug\Blockade Defense.pdb
+D:\Blockade Defense MOST RECENT 11-17\Blockade Defense\Blockade Defense\bin\Windows\Debug\MonoGame.Framework.dll
+D:\Blockade Defense MOST RECENT 11-17\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+D:\Blockade Defense MOST RECENT 11-17\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.dll
+D:\Blockade Defense MOST RECENT 11-17\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.XAudio2.dll
+D:\Blockade Defense MOST RECENT 11-17\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.Direct3D11.dll
+D:\Blockade Defense MOST RECENT 11-17\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.DXGI.dll
+D:\Blockade Defense MOST RECENT 11-17\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.Direct2D1.dll
+D:\Blockade Defense MOST RECENT 11-17\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.XInput.dll
+D:\Blockade Defense MOST RECENT 11-17\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.RawInput.dll
+D:\Blockade Defense MOST RECENT 11-17\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.Direct3D9.dll
+D:\Blockade Defense MOST RECENT 11-17\Blockade Defense\Blockade Defense\bin\Windows\Debug\MonoGame.Framework.xml
+D:\Blockade Defense MOST RECENT 11-17\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+D:\Blockade Defense MOST RECENT 11-17\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.xml
+D:\Blockade Defense MOST RECENT 11-17\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.XAudio2.xml
+D:\Blockade Defense MOST RECENT 11-17\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.Direct3D11.xml
+D:\Blockade Defense MOST RECENT 11-17\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.DXGI.xml
+D:\Blockade Defense MOST RECENT 11-17\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.Direct2D1.xml
+D:\Blockade Defense MOST RECENT 11-17\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.XInput.xml
+D:\Blockade Defense MOST RECENT 11-17\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.RawInput.xml
+D:\Blockade Defense MOST RECENT 11-17\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.Direct3D9.xml
+D:\Blockade Defense MOST RECENT 11-17\Blockade Defense\Blockade Defense\obj\x86\Debug\Blockade Defense.csprojResolveAssemblyReference.cache
+D:\Blockade Defense MOST RECENT 11-17\Blockade Defense\Blockade Defense\obj\x86\Debug\Blockade_Defense.Name.resources
+D:\Blockade Defense MOST RECENT 11-17\Blockade Defense\Blockade Defense\obj\x86\Debug\Blockade Defense.csproj.GenerateResource.Cache
+D:\Blockade Defense MOST RECENT 11-17\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\TestBullet.xnb
+D:\Blockade Defense MOST RECENT 11-17\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\SubPlaceholder3.xnb
+\\banner.main.ad.rit.edu\students\jmc2817\IGMProfile\Documents\testing\Blockade Defense\Blockade Defense\obj\x86\Debug\Blockade Defense.exe
+\\banner.main.ad.rit.edu\students\jmc2817\IGMProfile\Documents\testing\Blockade Defense\Blockade Defense\obj\x86\Debug\Blockade Defense.pdb
+\\banner.main.ad.rit.edu\students\jmc2817\IGMProfile\Documents\testing\Blockade Defense\Blockade Defense\bin\Windows\Debug\Blockade Defense.exe
+\\banner.main.ad.rit.edu\students\jmc2817\IGMProfile\Documents\testing\Blockade Defense\Blockade Defense\bin\Windows\Debug\Blockade Defense.pdb
+\\banner.main.ad.rit.edu\students\jmc2817\IGMProfile\Documents\testing\Blockade Defense\Blockade Defense\bin\Windows\Debug\MonoGame.Framework.dll
+\\banner.main.ad.rit.edu\students\jmc2817\IGMProfile\Documents\testing\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+\\banner.main.ad.rit.edu\students\jmc2817\IGMProfile\Documents\testing\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.dll
+\\banner.main.ad.rit.edu\students\jmc2817\IGMProfile\Documents\testing\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.XAudio2.dll
+\\banner.main.ad.rit.edu\students\jmc2817\IGMProfile\Documents\testing\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.Direct3D11.dll
+\\banner.main.ad.rit.edu\students\jmc2817\IGMProfile\Documents\testing\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.DXGI.dll
+\\banner.main.ad.rit.edu\students\jmc2817\IGMProfile\Documents\testing\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.Direct2D1.dll
+\\banner.main.ad.rit.edu\students\jmc2817\IGMProfile\Documents\testing\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.XInput.dll
+\\banner.main.ad.rit.edu\students\jmc2817\IGMProfile\Documents\testing\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.RawInput.dll
+\\banner.main.ad.rit.edu\students\jmc2817\IGMProfile\Documents\testing\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.Direct3D9.dll
+\\banner.main.ad.rit.edu\students\jmc2817\IGMProfile\Documents\testing\Blockade Defense\Blockade Defense\bin\Windows\Debug\MonoGame.Framework.xml
+\\banner.main.ad.rit.edu\students\jmc2817\IGMProfile\Documents\testing\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+\\banner.main.ad.rit.edu\students\jmc2817\IGMProfile\Documents\testing\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.xml
+\\banner.main.ad.rit.edu\students\jmc2817\IGMProfile\Documents\testing\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.XAudio2.xml
+\\banner.main.ad.rit.edu\students\jmc2817\IGMProfile\Documents\testing\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.Direct3D11.xml
+\\banner.main.ad.rit.edu\students\jmc2817\IGMProfile\Documents\testing\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.DXGI.xml
+\\banner.main.ad.rit.edu\students\jmc2817\IGMProfile\Documents\testing\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.Direct2D1.xml
+\\banner.main.ad.rit.edu\students\jmc2817\IGMProfile\Documents\testing\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.XInput.xml
+\\banner.main.ad.rit.edu\students\jmc2817\IGMProfile\Documents\testing\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.RawInput.xml
+\\banner.main.ad.rit.edu\students\jmc2817\IGMProfile\Documents\testing\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.Direct3D9.xml
+\\banner.main.ad.rit.edu\students\jmc2817\IGMProfile\Documents\testing\Blockade Defense\Blockade Defense\obj\x86\Debug\Blockade Defense.csprojResolveAssemblyReference.cache
+\\banner.main.ad.rit.edu\students\jmc2817\IGMProfile\Documents\testing\Blockade Defense\Blockade Defense\obj\x86\Debug\Blockade_Defense.Name.resources
+\\banner.main.ad.rit.edu\students\jmc2817\IGMProfile\Documents\testing\Blockade Defense\Blockade Defense\obj\x86\Debug\Blockade Defense.csproj.GenerateResource.Cache
+D:\Blockade Defense\Blockade Defense\obj\x86\Debug\Blockade Defense.csprojResolveAssemblyReference.cache
+D:\Blockade Defense\Blockade Defense\obj\x86\Debug\Blockade_Defense.Name.resources
+D:\Blockade Defense\Blockade Defense\obj\x86\Debug\Blockade Defense.csproj.GenerateResource.Cache
+D:\Blockade Defense SUNDAY 11-22\Blockade Defense\Blockade Defense\obj\x86\Debug\Blockade Defense.exe
+D:\Blockade Defense SUNDAY 11-22\Blockade Defense\Blockade Defense\obj\x86\Debug\Blockade Defense.pdb
+D:\Blockade Defense SUNDAY 11-22\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\EmptyTile.xnb
+D:\Blockade Defense SUNDAY 11-22\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\EndGameHover.xnb
+D:\Blockade Defense SUNDAY 11-22\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\Game.xnb
+D:\Blockade Defense SUNDAY 11-22\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\GameOver.xnb
+D:\Blockade Defense SUNDAY 11-22\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\HelpButton.xnb
+D:\Blockade Defense SUNDAY 11-22\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\HelpButtonHover.xnb
+D:\Blockade Defense SUNDAY 11-22\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\LevelDifficultyButton.xnb
+D:\Blockade Defense SUNDAY 11-22\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\MainMenu.xnb
+D:\Blockade Defense SUNDAY 11-22\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\MainMenuButton.xnb
+D:\Blockade Defense SUNDAY 11-22\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\MainMenuButtonHover.xnb
+D:\Blockade Defense SUNDAY 11-22\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\MapSelectionButton.xnb
+D:\Blockade Defense SUNDAY 11-22\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\mySpriteFont.xnb
+D:\Blockade Defense SUNDAY 11-22\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\mySpriteFont2.xnb
+D:\Blockade Defense SUNDAY 11-22\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\mySpriteFont3.xnb
+D:\Blockade Defense SUNDAY 11-22\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\PathBlock.xnb
+D:\Blockade Defense SUNDAY 11-22\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\PlayGameButton.xnb
+D:\Blockade Defense SUNDAY 11-22\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\PlayGameButtonHover.xnb
+D:\Blockade Defense SUNDAY 11-22\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\PressEnter.xnb
+D:\Blockade Defense SUNDAY 11-22\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\PressEnterBlink.xnb
+D:\Blockade Defense SUNDAY 11-22\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\Pulse1.xnb
+D:\Blockade Defense SUNDAY 11-22\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\QuitGameButton.xnb
+D:\Blockade Defense SUNDAY 11-22\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\QuitGameButtonHover.xnb
+D:\Blockade Defense SUNDAY 11-22\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\StartNextWaveHover.xnb
+D:\Blockade Defense SUNDAY 11-22\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\SubPlaceholder.xnb
+D:\Blockade Defense SUNDAY 11-22\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\SubPlaceholder2.xnb
+D:\Blockade Defense SUNDAY 11-22\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\SubPlaceholder3.xnb
+D:\Blockade Defense SUNDAY 11-22\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\TestBullet.xnb
+D:\Blockade Defense SUNDAY 11-22\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\TitleScreen.xnb
+D:\Blockade Defense SUNDAY 11-22\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\TowerPlaceholder.xnb
+D:\Blockade Defense SUNDAY 11-22\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\TowerPlaceholder2.xnb
+D:\Blockade Defense SUNDAY 11-22\Blockade Defense\Blockade Defense\bin\Windows\Debug\Blockade Defense.exe
+D:\Blockade Defense SUNDAY 11-22\Blockade Defense\Blockade Defense\bin\Windows\Debug\Blockade Defense.pdb
+D:\Blockade Defense SUNDAY 11-22\Blockade Defense\Blockade Defense\bin\Windows\Debug\MonoGame.Framework.dll
+D:\Blockade Defense SUNDAY 11-22\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+D:\Blockade Defense SUNDAY 11-22\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.dll
+D:\Blockade Defense SUNDAY 11-22\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.XAudio2.dll
+D:\Blockade Defense SUNDAY 11-22\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.Direct3D11.dll
+D:\Blockade Defense SUNDAY 11-22\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.DXGI.dll
+D:\Blockade Defense SUNDAY 11-22\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.Direct2D1.dll
+D:\Blockade Defense SUNDAY 11-22\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.XInput.dll
+D:\Blockade Defense SUNDAY 11-22\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.RawInput.dll
+D:\Blockade Defense SUNDAY 11-22\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.Direct3D9.dll
+D:\Blockade Defense SUNDAY 11-22\Blockade Defense\Blockade Defense\bin\Windows\Debug\MonoGame.Framework.xml
+D:\Blockade Defense SUNDAY 11-22\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+D:\Blockade Defense SUNDAY 11-22\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.xml
+D:\Blockade Defense SUNDAY 11-22\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.XAudio2.xml
+D:\Blockade Defense SUNDAY 11-22\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.Direct3D11.xml
+D:\Blockade Defense SUNDAY 11-22\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.DXGI.xml
+D:\Blockade Defense SUNDAY 11-22\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.Direct2D1.xml
+D:\Blockade Defense SUNDAY 11-22\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.XInput.xml
+D:\Blockade Defense SUNDAY 11-22\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.RawInput.xml
+D:\Blockade Defense SUNDAY 11-22\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.Direct3D9.xml
+D:\Blockade Defense SUNDAY 11-22\Blockade Defense\Blockade Defense\obj\x86\Debug\Blockade Defense.csprojResolveAssemblyReference.cache
+D:\Blockade Defense SUNDAY 11-22\Blockade Defense\Blockade Defense\obj\x86\Debug\Blockade_Defense.Name.resources
+D:\Blockade Defense SUNDAY 11-22\Blockade Defense\Blockade Defense\obj\x86\Debug\Blockade Defense.csproj.GenerateResource.Cache
+D:\Blockade Defense MileStone3\Blockade Defense SUNDAY 11-22\Blockade Defense\Blockade Defense\obj\x86\Debug\Blockade Defense.exe
+D:\Blockade Defense MileStone3\Blockade Defense SUNDAY 11-22\Blockade Defense\Blockade Defense\obj\x86\Debug\Blockade Defense.pdb
+D:\Blockade Defense MileStone3\Blockade Defense SUNDAY 11-22\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\EmptyTile.xnb
+D:\Blockade Defense MileStone3\Blockade Defense SUNDAY 11-22\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\EndGameHover.xnb
+D:\Blockade Defense MileStone3\Blockade Defense SUNDAY 11-22\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\Game.xnb
+D:\Blockade Defense MileStone3\Blockade Defense SUNDAY 11-22\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\GameOver.xnb
+D:\Blockade Defense MileStone3\Blockade Defense SUNDAY 11-22\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\HelpButton.xnb
+D:\Blockade Defense MileStone3\Blockade Defense SUNDAY 11-22\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\HelpButtonHover.xnb
+D:\Blockade Defense MileStone3\Blockade Defense SUNDAY 11-22\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\LevelDifficultyButton.xnb
+D:\Blockade Defense MileStone3\Blockade Defense SUNDAY 11-22\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\MainMenu.xnb
+D:\Blockade Defense MileStone3\Blockade Defense SUNDAY 11-22\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\MainMenuButton.xnb
+D:\Blockade Defense MileStone3\Blockade Defense SUNDAY 11-22\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\MainMenuButtonHover.xnb
+D:\Blockade Defense MileStone3\Blockade Defense SUNDAY 11-22\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\MapSelectionButton.xnb
+D:\Blockade Defense MileStone3\Blockade Defense SUNDAY 11-22\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\mySpriteFont.xnb
+D:\Blockade Defense MileStone3\Blockade Defense SUNDAY 11-22\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\mySpriteFont2.xnb
+D:\Blockade Defense MileStone3\Blockade Defense SUNDAY 11-22\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\mySpriteFont3.xnb
+D:\Blockade Defense MileStone3\Blockade Defense SUNDAY 11-22\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\PathBlock.xnb
+D:\Blockade Defense MileStone3\Blockade Defense SUNDAY 11-22\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\PlayGameButton.xnb
+D:\Blockade Defense MileStone3\Blockade Defense SUNDAY 11-22\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\PlayGameButtonHover.xnb
+D:\Blockade Defense MileStone3\Blockade Defense SUNDAY 11-22\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\PressEnter.xnb
+D:\Blockade Defense MileStone3\Blockade Defense SUNDAY 11-22\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\PressEnterBlink.xnb
+D:\Blockade Defense MileStone3\Blockade Defense SUNDAY 11-22\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\Pulse1.xnb
+D:\Blockade Defense MileStone3\Blockade Defense SUNDAY 11-22\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\QuitGameButton.xnb
+D:\Blockade Defense MileStone3\Blockade Defense SUNDAY 11-22\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\QuitGameButtonHover.xnb
+D:\Blockade Defense MileStone3\Blockade Defense SUNDAY 11-22\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\StartNextWaveHover.xnb
+D:\Blockade Defense MileStone3\Blockade Defense SUNDAY 11-22\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\TestBullet.xnb
+D:\Blockade Defense MileStone3\Blockade Defense SUNDAY 11-22\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\TitleScreen.xnb
+D:\Blockade Defense MileStone3\Blockade Defense SUNDAY 11-22\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\TowerPlaceholder.xnb
+D:\Blockade Defense MileStone3\Blockade Defense SUNDAY 11-22\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\TowerPlaceholder2.xnb
+D:\Blockade Defense MileStone3\Blockade Defense SUNDAY 11-22\Blockade Defense\Blockade Defense\bin\Windows\Debug\Blockade Defense.exe
+D:\Blockade Defense MileStone3\Blockade Defense SUNDAY 11-22\Blockade Defense\Blockade Defense\bin\Windows\Debug\Blockade Defense.pdb
+D:\Blockade Defense MileStone3\Blockade Defense SUNDAY 11-22\Blockade Defense\Blockade Defense\bin\Windows\Debug\MonoGame.Framework.dll
+D:\Blockade Defense MileStone3\Blockade Defense SUNDAY 11-22\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+D:\Blockade Defense MileStone3\Blockade Defense SUNDAY 11-22\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.dll
+D:\Blockade Defense MileStone3\Blockade Defense SUNDAY 11-22\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.XAudio2.dll
+D:\Blockade Defense MileStone3\Blockade Defense SUNDAY 11-22\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.Direct3D11.dll
+D:\Blockade Defense MileStone3\Blockade Defense SUNDAY 11-22\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.DXGI.dll
+D:\Blockade Defense MileStone3\Blockade Defense SUNDAY 11-22\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.Direct2D1.dll
+D:\Blockade Defense MileStone3\Blockade Defense SUNDAY 11-22\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.XInput.dll
+D:\Blockade Defense MileStone3\Blockade Defense SUNDAY 11-22\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.RawInput.dll
+D:\Blockade Defense MileStone3\Blockade Defense SUNDAY 11-22\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.Direct3D9.dll
+D:\Blockade Defense MileStone3\Blockade Defense SUNDAY 11-22\Blockade Defense\Blockade Defense\bin\Windows\Debug\MonoGame.Framework.xml
+D:\Blockade Defense MileStone3\Blockade Defense SUNDAY 11-22\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+D:\Blockade Defense MileStone3\Blockade Defense SUNDAY 11-22\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.xml
+D:\Blockade Defense MileStone3\Blockade Defense SUNDAY 11-22\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.XAudio2.xml
+D:\Blockade Defense MileStone3\Blockade Defense SUNDAY 11-22\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.Direct3D11.xml
+D:\Blockade Defense MileStone3\Blockade Defense SUNDAY 11-22\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.DXGI.xml
+D:\Blockade Defense MileStone3\Blockade Defense SUNDAY 11-22\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.Direct2D1.xml
+D:\Blockade Defense MileStone3\Blockade Defense SUNDAY 11-22\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.XInput.xml
+D:\Blockade Defense MileStone3\Blockade Defense SUNDAY 11-22\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.RawInput.xml
+D:\Blockade Defense MileStone3\Blockade Defense SUNDAY 11-22\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.Direct3D9.xml
+D:\Blockade Defense MileStone3\Blockade Defense SUNDAY 11-22\Blockade Defense\Blockade Defense\obj\x86\Debug\Blockade Defense.csprojResolveAssemblyReference.cache
+D:\Blockade Defense MileStone3\Blockade Defense SUNDAY 11-22\Blockade Defense\Blockade Defense\obj\x86\Debug\Blockade_Defense.Name.resources
+D:\Blockade Defense MileStone3\Blockade Defense SUNDAY 11-22\Blockade Defense\Blockade Defense\obj\x86\Debug\Blockade Defense.csproj.GenerateResource.Cache
+D:\Blockade Defense MileStone3\Blockade Defense SUNDAY 11-22\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\missile.xnb
+D:\Blockade Defense MileStone3\Blockade Defense SUNDAY 11-22\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\TowerPlaceholder3.xnb
+D:\Blockade Defense MileStone3\Blockade Defense SUNDAY 11-22\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\BasicSub.xnb
+D:\Blockade Defense MileStone3\Blockade Defense SUNDAY 11-22\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\BigBoy.xnb
+D:\Blockade Defense MileStone3\Blockade Defense SUNDAY 11-22\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\FastSub.xnb
+D:\Blockade Defense MileStone3\Blockade Defense SUNDAY 11-22\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\HeavySub.xnb
+D:\Blockade Defense MileStone3\Blockade Defense SUNDAY 11-22\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\TestTower.xnb
+D:\Blockade Defense MileStone3\Blockade Defense SUNDAY 11-22\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\BasicTower.xnb
+D:\Blockade Defense MileStone3\Blockade Defense SUNDAY 11-22\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\PulseTower.xnb
+D:\Blockade Defense MileStone3\Blockade Defense SUNDAY 11-22\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\mySpriteFont4.xnb
+D:\Blockade Defense MileStone3\Blockade Defense SUNDAY 11-22\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\FinishedButton.xnb
+D:\Blockade Defense MileStone3\Blockade Defense SUNDAY 11-22\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\MapButton.xnb
+D:\Blockade Defense MileStone3\Blockade Defense SUNDAY 11-22\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\MapButtonHover.xnb
+D:\Blockade Defense MileStone3\Blockade Defense SUNDAY 11-22\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\MapSelectionScreen.xnb
+D:\Blockade Defense MileStone3\Blockade Defense SUNDAY 11-22\Blockade Defense\Blockade Defense\obj\x86\Debug\Blockade_Defense.LoadMap.resources
+D:\Blockade Defense SAT 12-15\Blockade Defense\Blockade Defense\obj\x86\Debug\Blockade Defense.exe
+D:\Blockade Defense SAT 12-15\Blockade Defense\Blockade Defense\obj\x86\Debug\Blockade Defense.pdb
+D:\Blockade Defense SAT 12-15\Blockade Defense\Blockade Defense\bin\Windows\Debug\Blockade Defense.exe
+D:\Blockade Defense SAT 12-15\Blockade Defense\Blockade Defense\bin\Windows\Debug\Blockade Defense.pdb
+D:\Blockade Defense SAT 12-15\Blockade Defense\Blockade Defense\bin\Windows\Debug\MonoGame.Framework.dll
+D:\Blockade Defense SAT 12-15\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+D:\Blockade Defense SAT 12-15\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.dll
+D:\Blockade Defense SAT 12-15\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.XAudio2.dll
+D:\Blockade Defense SAT 12-15\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.Direct3D11.dll
+D:\Blockade Defense SAT 12-15\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.DXGI.dll
+D:\Blockade Defense SAT 12-15\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.Direct2D1.dll
+D:\Blockade Defense SAT 12-15\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.XInput.dll
+D:\Blockade Defense SAT 12-15\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.RawInput.dll
+D:\Blockade Defense SAT 12-15\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.Direct3D9.dll
+D:\Blockade Defense SAT 12-15\Blockade Defense\Blockade Defense\bin\Windows\Debug\MonoGame.Framework.xml
+D:\Blockade Defense SAT 12-15\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+D:\Blockade Defense SAT 12-15\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.xml
+D:\Blockade Defense SAT 12-15\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.XAudio2.xml
+D:\Blockade Defense SAT 12-15\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.Direct3D11.xml
+D:\Blockade Defense SAT 12-15\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.DXGI.xml
+D:\Blockade Defense SAT 12-15\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.Direct2D1.xml
+D:\Blockade Defense SAT 12-15\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.XInput.xml
+D:\Blockade Defense SAT 12-15\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.RawInput.xml
+D:\Blockade Defense SAT 12-15\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.Direct3D9.xml
+D:\Blockade Defense SAT 12-15\Blockade Defense\Blockade Defense\obj\x86\Debug\Blockade Defense.csprojResolveAssemblyReference.cache
+D:\Blockade Defense SAT 12-15\Blockade Defense\Blockade Defense\obj\x86\Debug\Blockade_Defense.LoadMap.resources
+D:\Blockade Defense SAT 12-15\Blockade Defense\Blockade Defense\obj\x86\Debug\Blockade_Defense.Name.resources
+D:\Blockade Defense SAT 12-15\Blockade Defense\Blockade Defense\obj\x86\Debug\Blockade Defense.csproj.GenerateResource.Cache
+D:\Blockade Defense 12-12 SATURDAY NIGHT\Blockade Defense\Blockade Defense\obj\x86\Debug\Blockade Defense.exe
+D:\Blockade Defense 12-12 SATURDAY NIGHT\Blockade Defense\Blockade Defense\obj\x86\Debug\Blockade Defense.pdb
+D:\Blockade Defense 12-12 SATURDAY NIGHT\Blockade Defense\Blockade Defense\bin\Windows\Debug\Blockade Defense.exe
+D:\Blockade Defense 12-12 SATURDAY NIGHT\Blockade Defense\Blockade Defense\bin\Windows\Debug\Blockade Defense.pdb
+D:\Blockade Defense 12-12 SATURDAY NIGHT\Blockade Defense\Blockade Defense\bin\Windows\Debug\MonoGame.Framework.dll
+D:\Blockade Defense 12-12 SATURDAY NIGHT\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+D:\Blockade Defense 12-12 SATURDAY NIGHT\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.dll
+D:\Blockade Defense 12-12 SATURDAY NIGHT\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.XAudio2.dll
+D:\Blockade Defense 12-12 SATURDAY NIGHT\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.Direct3D11.dll
+D:\Blockade Defense 12-12 SATURDAY NIGHT\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.DXGI.dll
+D:\Blockade Defense 12-12 SATURDAY NIGHT\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.Direct2D1.dll
+D:\Blockade Defense 12-12 SATURDAY NIGHT\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.XInput.dll
+D:\Blockade Defense 12-12 SATURDAY NIGHT\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.RawInput.dll
+D:\Blockade Defense 12-12 SATURDAY NIGHT\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.Direct3D9.dll
+D:\Blockade Defense 12-12 SATURDAY NIGHT\Blockade Defense\Blockade Defense\bin\Windows\Debug\MonoGame.Framework.xml
+D:\Blockade Defense 12-12 SATURDAY NIGHT\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+D:\Blockade Defense 12-12 SATURDAY NIGHT\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.xml
+D:\Blockade Defense 12-12 SATURDAY NIGHT\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.XAudio2.xml
+D:\Blockade Defense 12-12 SATURDAY NIGHT\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.Direct3D11.xml
+D:\Blockade Defense 12-12 SATURDAY NIGHT\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.DXGI.xml
+D:\Blockade Defense 12-12 SATURDAY NIGHT\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.Direct2D1.xml
+D:\Blockade Defense 12-12 SATURDAY NIGHT\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.XInput.xml
+D:\Blockade Defense 12-12 SATURDAY NIGHT\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.RawInput.xml
+D:\Blockade Defense 12-12 SATURDAY NIGHT\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.Direct3D9.xml
+D:\Blockade Defense 12-12 SATURDAY NIGHT\Blockade Defense\Blockade Defense\obj\x86\Debug\Blockade Defense.csprojResolveAssemblyReference.cache
+D:\Blockade Defense 12-12 SATURDAY NIGHT\Blockade Defense\Blockade Defense\obj\x86\Debug\Blockade_Defense.LoadMap.resources
+D:\Blockade Defense 12-12 SATURDAY NIGHT\Blockade Defense\Blockade Defense\obj\x86\Debug\Blockade_Defense.Name.resources
+D:\Blockade Defense 12-12 SATURDAY NIGHT\Blockade Defense\Blockade Defense\obj\x86\Debug\Blockade Defense.csproj.GenerateResource.Cache
+D:\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\BasicSub.xnb
+D:\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\BasicTower.xnb
+D:\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\BigBoy.xnb
+D:\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\EmptyTile.xnb
+D:\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\EndGameHover.xnb
+D:\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\FastSub.xnb
+D:\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\FinishedButton.xnb
+D:\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\Game.xnb
+D:\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\GameOver.xnb
+D:\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\HeavySub.xnb
+D:\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\HelpButton.xnb
+D:\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\HelpButtonHover.xnb
+D:\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\LevelDifficultyButton.xnb
+D:\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\MainMenu.xnb
+D:\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\MainMenuButton.xnb
+D:\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\MainMenuButtonHover.xnb
+D:\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\MapButton.xnb
+D:\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\MapButtonHover.xnb
+D:\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\MapSelectionButton.xnb
+D:\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\MapSelectionScreen.xnb
+D:\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\missile.xnb
+D:\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\MissileTower.xnb
+D:\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\mySpriteFont.xnb
+D:\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\mySpriteFont2.xnb
+D:\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\mySpriteFont3.xnb
+D:\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\mySpriteFont4.xnb
+D:\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\PathBlock.xnb
+D:\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\PlayGameButton.xnb
+D:\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\PlayGameButtonHover.xnb
+D:\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\PressEnter.xnb
+D:\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\PressEnterBlink.xnb
+D:\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\Pulse1.xnb
+D:\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\PulseTower.xnb
+D:\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\QuitGameButton.xnb
+D:\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\QuitGameButtonHover.xnb
+D:\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\StartNextWaveHover.xnb
+D:\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\SuperTower.xnb
+D:\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\TestBullet.xnb
+D:\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\TestTower.xnb
+D:\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\TitleScreen.xnb
+D:\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\TowerPlaceholder.xnb
+D:\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\TowerPlaceholder2.xnb
+D:\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\TowerPlaceholder3.xnb
+D:\Blockade Defense\Blockade Defense\obj\x86\Debug\Blockade_Defense.LoadMap.resources
+D:\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\TowerHover.xnb
+D:\BLOCKADE_DEFENSE_STUFF\Blockade Defense Final Game\Blockade Defense\Blockade Defense\obj\x86\Debug\Blockade Defense.exe
+D:\BLOCKADE_DEFENSE_STUFF\Blockade Defense Final Game\Blockade Defense\Blockade Defense\obj\x86\Debug\Blockade Defense.pdb
+D:\BLOCKADE_DEFENSE_STUFF\Blockade Defense Final Game\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\TestTower.xnb
+D:\BLOCKADE_DEFENSE_STUFF\Blockade Defense Final Game\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\TowerPlaceholder.xnb
+D:\BLOCKADE_DEFENSE_STUFF\Blockade Defense Final Game\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\TowerPlaceholder2.xnb
+D:\BLOCKADE_DEFENSE_STUFF\Blockade Defense Final Game\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\TowerPlaceholder3.xnb
+D:\BLOCKADE_DEFENSE_STUFF\Blockade Defense Final Game\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\BasicSub.xnb
+D:\BLOCKADE_DEFENSE_STUFF\Blockade Defense Final Game\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\BasicTower.xnb
+D:\BLOCKADE_DEFENSE_STUFF\Blockade Defense Final Game\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\BigBoy.xnb
+D:\BLOCKADE_DEFENSE_STUFF\Blockade Defense Final Game\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\EmptyTile.xnb
+D:\BLOCKADE_DEFENSE_STUFF\Blockade Defense Final Game\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\EndGameHover.xnb
+D:\BLOCKADE_DEFENSE_STUFF\Blockade Defense Final Game\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\FastSub.xnb
+D:\BLOCKADE_DEFENSE_STUFF\Blockade Defense Final Game\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\FinishedButton.xnb
+D:\BLOCKADE_DEFENSE_STUFF\Blockade Defense Final Game\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\Game.xnb
+D:\BLOCKADE_DEFENSE_STUFF\Blockade Defense Final Game\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\GameOver.xnb
+D:\BLOCKADE_DEFENSE_STUFF\Blockade Defense Final Game\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\HeavySub.xnb
+D:\BLOCKADE_DEFENSE_STUFF\Blockade Defense Final Game\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\HelpButton.xnb
+D:\BLOCKADE_DEFENSE_STUFF\Blockade Defense Final Game\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\HelpButtonHover.xnb
+D:\BLOCKADE_DEFENSE_STUFF\Blockade Defense Final Game\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\LevelDifficultyButton.xnb
+D:\BLOCKADE_DEFENSE_STUFF\Blockade Defense Final Game\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\MainMenu.xnb
+D:\BLOCKADE_DEFENSE_STUFF\Blockade Defense Final Game\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\MainMenuButton.xnb
+D:\BLOCKADE_DEFENSE_STUFF\Blockade Defense Final Game\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\MainMenuButtonHover.xnb
+D:\BLOCKADE_DEFENSE_STUFF\Blockade Defense Final Game\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\MapButton.xnb
+D:\BLOCKADE_DEFENSE_STUFF\Blockade Defense Final Game\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\MapButtonHover.xnb
+D:\BLOCKADE_DEFENSE_STUFF\Blockade Defense Final Game\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\MapSelectionButton.xnb
+D:\BLOCKADE_DEFENSE_STUFF\Blockade Defense Final Game\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\MapSelectionScreen.xnb
+D:\BLOCKADE_DEFENSE_STUFF\Blockade Defense Final Game\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\missile.xnb
+D:\BLOCKADE_DEFENSE_STUFF\Blockade Defense Final Game\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\MissileTower.xnb
+D:\BLOCKADE_DEFENSE_STUFF\Blockade Defense Final Game\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\mySpriteFont.xnb
+D:\BLOCKADE_DEFENSE_STUFF\Blockade Defense Final Game\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\mySpriteFont2.xnb
+D:\BLOCKADE_DEFENSE_STUFF\Blockade Defense Final Game\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\mySpriteFont3.xnb
+D:\BLOCKADE_DEFENSE_STUFF\Blockade Defense Final Game\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\mySpriteFont4.xnb
+D:\BLOCKADE_DEFENSE_STUFF\Blockade Defense Final Game\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\PathBlock.xnb
+D:\BLOCKADE_DEFENSE_STUFF\Blockade Defense Final Game\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\PlayGameButton.xnb
+D:\BLOCKADE_DEFENSE_STUFF\Blockade Defense Final Game\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\PlayGameButtonHover.xnb
+D:\BLOCKADE_DEFENSE_STUFF\Blockade Defense Final Game\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\PressEnter.xnb
+D:\BLOCKADE_DEFENSE_STUFF\Blockade Defense Final Game\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\PressEnterBlink.xnb
+D:\BLOCKADE_DEFENSE_STUFF\Blockade Defense Final Game\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\Pulse1.xnb
+D:\BLOCKADE_DEFENSE_STUFF\Blockade Defense Final Game\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\PulseTower.xnb
+D:\BLOCKADE_DEFENSE_STUFF\Blockade Defense Final Game\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\QuitGameButton.xnb
+D:\BLOCKADE_DEFENSE_STUFF\Blockade Defense Final Game\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\QuitGameButtonHover.xnb
+D:\BLOCKADE_DEFENSE_STUFF\Blockade Defense Final Game\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\StartNextWaveHover.xnb
+D:\BLOCKADE_DEFENSE_STUFF\Blockade Defense Final Game\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\SuperTower.xnb
+D:\BLOCKADE_DEFENSE_STUFF\Blockade Defense Final Game\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\TestBullet.xnb
+D:\BLOCKADE_DEFENSE_STUFF\Blockade Defense Final Game\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\TitleScreen.xnb
+D:\BLOCKADE_DEFENSE_STUFF\Blockade Defense Final Game\Blockade Defense\Blockade Defense\bin\Windows\Debug\Content\Images\TowerHover.xnb
+D:\BLOCKADE_DEFENSE_STUFF\Blockade Defense Final Game\Blockade Defense\Blockade Defense\bin\Windows\Debug\Blockade Defense.exe
+D:\BLOCKADE_DEFENSE_STUFF\Blockade Defense Final Game\Blockade Defense\Blockade Defense\bin\Windows\Debug\Blockade Defense.pdb
+D:\BLOCKADE_DEFENSE_STUFF\Blockade Defense Final Game\Blockade Defense\Blockade Defense\bin\Windows\Debug\MonoGame.Framework.dll
+D:\BLOCKADE_DEFENSE_STUFF\Blockade Defense Final Game\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+D:\BLOCKADE_DEFENSE_STUFF\Blockade Defense Final Game\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.dll
+D:\BLOCKADE_DEFENSE_STUFF\Blockade Defense Final Game\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.XAudio2.dll
+D:\BLOCKADE_DEFENSE_STUFF\Blockade Defense Final Game\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.Direct3D11.dll
+D:\BLOCKADE_DEFENSE_STUFF\Blockade Defense Final Game\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.DXGI.dll
+D:\BLOCKADE_DEFENSE_STUFF\Blockade Defense Final Game\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.Direct2D1.dll
+D:\BLOCKADE_DEFENSE_STUFF\Blockade Defense Final Game\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.XInput.dll
+D:\BLOCKADE_DEFENSE_STUFF\Blockade Defense Final Game\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.RawInput.dll
+D:\BLOCKADE_DEFENSE_STUFF\Blockade Defense Final Game\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.Direct3D9.dll
+D:\BLOCKADE_DEFENSE_STUFF\Blockade Defense Final Game\Blockade Defense\Blockade Defense\bin\Windows\Debug\MonoGame.Framework.xml
+D:\BLOCKADE_DEFENSE_STUFF\Blockade Defense Final Game\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+D:\BLOCKADE_DEFENSE_STUFF\Blockade Defense Final Game\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.xml
+D:\BLOCKADE_DEFENSE_STUFF\Blockade Defense Final Game\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.XAudio2.xml
+D:\BLOCKADE_DEFENSE_STUFF\Blockade Defense Final Game\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.Direct3D11.xml
+D:\BLOCKADE_DEFENSE_STUFF\Blockade Defense Final Game\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.DXGI.xml
+D:\BLOCKADE_DEFENSE_STUFF\Blockade Defense Final Game\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.Direct2D1.xml
+D:\BLOCKADE_DEFENSE_STUFF\Blockade Defense Final Game\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.XInput.xml
+D:\BLOCKADE_DEFENSE_STUFF\Blockade Defense Final Game\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.RawInput.xml
+D:\BLOCKADE_DEFENSE_STUFF\Blockade Defense Final Game\Blockade Defense\Blockade Defense\bin\Windows\Debug\SharpDX.Direct3D9.xml
+D:\BLOCKADE_DEFENSE_STUFF\Blockade Defense Final Game\Blockade Defense\Blockade Defense\obj\x86\Debug\Blockade Defense.csprojResolveAssemblyReference.cache
+D:\BLOCKADE_DEFENSE_STUFF\Blockade Defense Final Game\Blockade Defense\Blockade Defense\obj\x86\Debug\Blockade_Defense.LoadMap.resources
+D:\BLOCKADE_DEFENSE_STUFF\Blockade Defense Final Game\Blockade Defense\Blockade Defense\obj\x86\Debug\Blockade_Defense.Name.resources
+D:\BLOCKADE_DEFENSE_STUFF\Blockade Defense Final Game\Blockade Defense\Blockade Defense\obj\x86\Debug\Blockade Defense.csproj.GenerateResource.Cache
